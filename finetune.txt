@@ -1,0 +1,1 @@
+python run_finetuning.py --data-dir "D:\ELECTRAIFFinetuned\electra" --model-name electra_small --hparams finetuning_config.json

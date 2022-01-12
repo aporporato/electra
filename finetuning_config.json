@@ -1,0 +1,15 @@
+{
+  "model_size": "small",
+  "task_names": [
+    "cola",
+    "squad",
+    "sst",
+    "qqp",
+    "rte",
+    "chunk",
+    "mrpc",
+    "sts",
+    "wnli",
+    "mnli"
+  ]
+}
