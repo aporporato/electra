@@ -1,0 +1,11 @@
+{
+  "model_size": "small",
+  "task_names": [
+    "npc",
+    "fn",
+    "vn",
+    "wn"
+  ],
+  "do_train": false,
+  "do_eval": true
+}

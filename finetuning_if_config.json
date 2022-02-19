@@ -1,0 +1,9 @@
+{
+  "model_size": "small",
+  "task_names": [
+    "npc",
+    "fn",
+    "vn",
+    "wn"
+  ]
+}
