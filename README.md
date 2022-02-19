@@ -4,7 +4,9 @@
 
 Experiment on the usefulness of Large Language Model in the context of Interactive Fiction.
 
-Inspired by https://interactive-fiction-class.org/index.html.
+Inspired by
+the [CIS 700-001 - Interactive Fiction and Text Generation](https://interactive-fiction-class.org/index.html)
+Course.
 
 ## ELECTRA
 
@@ -68,9 +70,9 @@ Original paper:
 
 ## Finetune ELECTRA on IF dataset
 
-The finutuned small model has been in turn finutuned on various classification tasks. Details on the datasets can be
+The finetuned small model has been in turn finetuned on various classification tasks. Details on the datasets can be
 fount [here](https://github.com/aporporato/jericho-corpora). Move each folder in the `IF` one into
-your `finetuning_data` directoy (refer to
+your `finetuning_data` directory (refer to
 the [original project](https://github.com/google-research/electra#finetune-electra-on-a-glue--task) for detailed
 instructions). The model was finetuned on the data from all the tasks at once, for 30 epochs.
 
@@ -86,8 +88,8 @@ The results on test set for the tasks are reported for the newly finetuned model
 result of the model finetuned on GLUE tasks are also reported (ELECTRA-Small-Finetuned, obtained
 with `"do_train": false` option).
 
-|  | WordNet | VerbNet | FrameNet | Thid Person Commnd |
+|  | WordNet | VerbNet | FrameNet | Third Person Command |
 | --- | --- | --- | --- | --- |
 | Metrics | Acc | Acc | Acc | Acc |
-| ELECTRA-Small-Finetuded | 1.1 | 0.5 | 0.0 | 99.2 |
+| ELECTRA-Small-Finetuned | 1.1 | 0.5 | 0.0 | 99.2 |
 | ELECTRA-Small-IF | 72.1 | 54.5 | 66.9 | 99.2 |
