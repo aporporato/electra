@@ -338,7 +338,7 @@ class FN(ClassificationTask):
 
 
 class NPC(ClassificationTask):
-    """FrameNet."""
+    """Third Person Command."""
 
     def __init__(self, config: configure_if_finetuning.FinetuningIFConfig, tokenizer):
         super(NPC, self).__init__(config, "npc", tokenizer, [str(l) for l in list(range(3))])
@@ -351,7 +351,7 @@ class NPC(ClassificationTask):
 
 
 class VN(ClassificationTask):
-    """FrameNet."""
+    """VerbNet."""
 
     def __init__(self, config: configure_if_finetuning.FinetuningIFConfig, tokenizer):
         super(VN, self).__init__(config, "vn", tokenizer, [str(l) for l in list(range(70))])
@@ -364,10 +364,63 @@ class VN(ClassificationTask):
 
 
 class WN(ClassificationTask):
-    """FrameNet."""
+    """WordNet."""
 
     def __init__(self, config: configure_if_finetuning.FinetuningIFConfig, tokenizer):
         super(WN, self).__init__(config, "wn", tokenizer, [str(l) for l in list(range(84))])
+
+    def _create_examples(self, lines, split):
+        if "test" in split:
+            return self._load_glue(lines, split, 2, None, None)
+        else:
+            return self._load_glue(lines, split, 2, None, 1)
+
+
+class FNFull(ClassificationTask):
+    """FrameNet."""
+
+    def __init__(self, config: configure_if_finetuning.FinetuningIFConfig, tokenizer):
+        super(FNFull, self).__init__(config, "fn_full", tokenizer, [str(l) for l in list(range(54))])
+
+    def _create_examples(self, lines, split):
+        # def _load_glue(self, lines, split, text_a_loc, text_b_loc, label_loc, skip_first_line=False, eid_offset=0, swap=False):
+        if "test" in split:
+            return self._load_glue(lines, split, 2, None, None)
+        else:
+            return self._load_glue(lines, split, 2, None, 1)
+
+
+class NPCFull(ClassificationTask):
+    """Third Person Command."""
+
+    def __init__(self, config: configure_if_finetuning.FinetuningIFConfig, tokenizer):
+        super(NPCFull, self).__init__(config, "npc_full", tokenizer, [str(l) for l in list(range(3))])
+
+    def _create_examples(self, lines, split):
+        if "test" in split:
+            return self._load_glue(lines, split, 2, None, None)
+        else:
+            return self._load_glue(lines, split, 2, None, 1)
+
+
+class VNFull(ClassificationTask):
+    """VerbNet."""
+
+    def __init__(self, config: configure_if_finetuning.FinetuningIFConfig, tokenizer):
+        super(VNFull, self).__init__(config, "vn_full", tokenizer, [str(l) for l in list(range(70))])
+
+    def _create_examples(self, lines, split):
+        if "test" in split:
+            return self._load_glue(lines, split, 2, None, None)
+        else:
+            return self._load_glue(lines, split, 2, None, 1)
+
+
+class WNFull(ClassificationTask):
+    """WordNet."""
+
+    def __init__(self, config: configure_if_finetuning.FinetuningIFConfig, tokenizer):
+        super(WNFull, self).__init__(config, "wn_full", tokenizer, [str(l) for l in list(range(84))])
 
     def _create_examples(self, lines, split):
         if "test" in split:

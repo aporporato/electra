@@ -56,7 +56,7 @@ class FinetuningIFConfig(object):
         self.layerwise_lr_decay = 0.8  # if > 0, the learning rate for a layer is
         # lr * lr_decay^(depth - max_depth) i.e.,
         # shallower layers have lower learning rates
-        self.num_train_epochs = 30.0  # passes over the dataset during training
+        self.num_train_epochs = 10.0  # passes over the dataset during training
         self.warmup_proportion = 0.1  # how much of training to warm up the LR for
         self.save_checkpoints_steps = 1000000
         self.iterations_per_loop = 1000

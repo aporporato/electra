@@ -42,5 +42,13 @@ def get_task(config: configure_if_finetuning.FinetuningIFConfig, task_name,
         return classification_if_tasks.VN(config, tokenizer)
     elif task_name == "wn":
         return classification_if_tasks.WN(config, tokenizer)
+    elif task_name == "fn_full":
+        return classification_if_tasks.FNFull(config, tokenizer)
+    elif task_name == "npc_full":
+        return classification_if_tasks.NPCFull(config, tokenizer)
+    elif task_name == "vn_full":
+        return classification_if_tasks.VNFull(config, tokenizer)
+    elif task_name == "wn_full":
+        return classification_if_tasks.WNFull(config, tokenizer)
     else:
         raise ValueError("Unknown task " + task_name)
