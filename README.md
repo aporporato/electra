@@ -71,7 +71,7 @@ Original paper:
 ## Finetune ELECTRA on IF dataset
 
 The finetuned small model has been in turn finetuned on various classification tasks. Details on the datasets can be
-fount [here](https://github.com/aporporato/jericho-corpora). Move each folder in the `IF` one into
+fount [here](https://github.com/aporporato/jericho-corpora). To replicate, move each folder in the `IF` one into
 your `finetuning_data` directory (refer to
 the [original project](https://github.com/google-research/electra#finetune-electra-on-a-glue--task) for detailed
 instructions). The model was finetuned on the data from all the tasks at once, for 10 epochs.
@@ -80,7 +80,7 @@ instructions). The model was finetuned on the data from all the tasks at once, f
 python run_if_finetuning.py --data-dir $DATA_DIR --model-name electra_small_finetuned --hparams '{"model_size": "small", "task_names": ["npc", "fn", "vn", "wn"]}'
 ```
 
-That command took less than 1 hours on a single NVIDIA GeForce GTX 1050 Ti.
+That command took ~40 minutes on a single NVIDIA GeForce GTX 1050 Ti.
 
 ### Results
 
@@ -93,4 +93,7 @@ ELECTRA-Small-Finetuned respectively, obtained with `"do_train": false` option).
 | Metrics | Acc | Acc | Acc | Acc |
 | ELECTRA-Small | 0.1 | 0.3 | 0.3 | 0.8 |
 | ELECTRA-Small-Finetuned | 0.1 | 0.9 | 0.0 | 0.0 |
-| ELECTRA-Small-IF | 92.9 | 52.7 | 80.8 | 99.4 |
+| ELECTRA-Small-IF | 95.9 | 55.1 | 86.1 | 98.9 |
+
+(Note that this number are given just for rough estimate).
+
