@@ -1,0 +1,5866 @@
+ID	LABEL	TEXT
+0	9	x female
+1	10	take packet from pot
+2	10	get peg
+3	29	open coffer
+4	59	give book to gnome
+5	48	drop plans
+6	30	hang bucket on third peg
+7	27	unlock box 600 with key
+8	57	learn pulver
+9	29	open telescope
+10	10	get cube
+11	17	kill skink
+12	37	move wardrobe
+13	5	rub lamp
+14	48	drop all but flashlight
+15	29	open claws
+16	10	get necklace
+17	15	open copier
+18	38	slide o
+19	10	upload image
+20	10	get egg
+21	37	move carpet
+22	10	turtle, se and get scroll then nw
+23	54	cut clingfilm with knife
+24	24	drop wig
+25	48	drop slip
+26	10	get amulet and scroll
+27	10	get booklet
+28	66	fill pot with water
+29	2	close drawer
+30	58	pull clean hook
+31	10	get on horse
+32	2	open trap door
+33	48	drop statuette
+34	15	adventurer, open door
+35	65	x screen
+36	10	put worm in fountain
+37	65	x bed
+38	22	touch obelisk
+39	16	push bunk
+40	10	put bladder in geyser
+41	9	x murals
+42	25	shake pack
+43	41	remove skis
+44	53	buy flashlight and repellent
+45	51	show warranty
+46	65	x horse
+47	9	x transmit stud
+48	10	insert interface in nutrimat
+49	9	examine compressor
+50	2	roll statue se
+51	65	examine light
+52	65	x stranger
+53	10	put coin in zipper
+54	57	read note
+55	7	put glob on case
+56	9	examine cylinder
+57	10	take headdress
+58	10	get tea
+59	57	learn urbzig
+60	24	drop card
+61	27	unlock box with key
+62	3	pull torch
+63	10	ask hermit about entrance
+64	10	get rod of returning
+65	65	x drain
+66	9	examine glass case
+67	63	look up
+68	10	gnusto swanko
+69	57	read card
+70	10	ask dragon about white
+71	10	take off jacket
+72	9	x frank
+73	65	x tray
+74	9	x shelf
+75	48	drop blue paper and yellow paper
+76	0	wear air tank
+77	10	get large key
+78	9	examine boulders
+79	57	read moldy book
+80	2	open lab uniform
+81	15	open claws
+82	28	learn espnis
+83	0	wear spectacles
+84	29	open green bottle
+85	65	examine safe
+86	10	put hand in cauldron
+87	33	climb down rope
+88	10	get weeds with fork
+89	48	drop painting
+90	28	read book
+91	7	put umbrella on pool
+92	16	press up button
+93	48	drop rug
+94	24	drop wire
+95	48	drop flint
+96	48	drop egg
+97	37	move barrel
+98	10	take wings
+99	65	x ariana
+100	9	x studs
+101	63	look through astrolabe
+102	48	drop package
+103	10	put bauble in case
+104	29	open washing machine with poker
+105	9	x clock
+106	65	x counter
+107	63	look at shadow
+108	65	note counter
+109	24	drop silver
+110	27	unlock handcuffs with key
+111	28	learn swanko
+112	10	foblub man
+113	15	open matchbox
+114	65	x shaman
+115	16	push statue w
+116	10	take bronze coin from left pan
+117	36	exit scimitar
+118	22	touch notch
+119	31	push dusty n
+120	10	get memo
+121	24	turn nephthys
+122	0	wear wings
+123	15	open window
+124	55	sit in cask
+125	10	insert violet card in slot
+126	21	hit comb
+127	16	press island
+128	10	take toy
+129	2	open bag
+130	9	examine dog
+131	24	drop birdcage
+132	10	look up kebarn in leshosh
+133	57	learn tinsot
+134	9	x huge statue
+135	34	push can against wall
+136	9	x flue
+137	29	wake homer
+138	65	x clingfilm
+139	24	drop peridots
+140	24	drop stand
+141	4	show amulet to michael
+142	24	drop bag
+143	15	open desk
+144	40	turtle, follow me
+145	65	examine goblin
+146	29	open secret door
+147	10	vardik me
+148	9	examine safe
+149	33	n
+150	24	drop pigeon
+151	24	drop pearl
+152	10	get map
+153	10	get arrow
+154	16	push piano north
+155	57	read white scroll
+156	9	x rods
+157	9	examine symbols
+158	16	press project status stud
+159	9	examine it
+160	24	drop pile
+161	24	slide i
+162	4	show ribbon to chuckles
+163	48	drop clipper
+164	53	2
+165	66	cover trapdoor with bearskin rug
+166	10	get out of boat
+167	29	open briefcase
+168	10	ledak painting
+169	10	light candle with match
+170	24	drop splinter
+171	38	slide a
+172	34	push knob
+173	10	take trunk
+174	9	examine cottage
+175	28	read blackened
+176	10	put yellow powder in kettle
+177	25	shake safe
+178	36	climb pillar
+179	10	pick up cube
+180	29	open terminal
+181	15	open locket
+182	4	show crossbow to dragon
+183	57	learn zemdor
+184	57	read slip of paper
+185	34	push newspaper under door
+186	65	examine lump
+187	28	read green
+188	29	open car
+189	65	x shadow
+190	34	push wireless north
+191	57	read dirty scroll
+192	1	lock cabinet with key
+193	65	examine rope
+194	21	hammer scraps
+195	65	x pile
+196	39	squeeze it
+197	24	drop lump
+198	10	nitfol turtle
+199	24	drop candle
+200	24	drop walkie
+201	34	push west wall
+202	3	pull breaker
+203	10	get crumpled scroll
+204	28	read sapphire scratch with glass
+205	24	drop dragon and paper
+206	29	open closet
+207	21	strike returning
+208	65	examine post
+209	24	turn wheel
+210	10	gnusto malyon spell
+211	3	pull weed
+212	59	give pumpkin to fairy godmother
+213	10	put satchel in front of panel
+214	26	search foundation
+215	10	take log
+216	29	open slab
+217	48	drop matches
+218	2	open wooden door
+219	60	dungeon master, wait
+220	30	sit in large chair
+221	18	wake gnome
+222	10	get oil can
+223	7	put icicle on lump
+224	10	ask doc about syringe
+225	10	blow it
+226	10	get earth crystal
+227	9	examine watch
+228	24	drop scarf
+229	10	get accordion
+230	48	drop all cubes
+231	15	open lid with spade
+232	4	show blue to trent
+233	25	wind watch
+234	10	ozmoo myself
+235	14	tell gnome about grunk
+236	24	drop flashlight
+237	10	offer 500
+238	27	unlock door with brass key
+239	2	open drawer
+240	28	learn zemdor
+241	7	put oak on table
+242	57	read research paper
+243	2	open navy-blue box
+244	10	feeyuk me
+245	66	fill milkbottle with pondwater
+246	23	pour wine in green goblet
+247	14	say yello
+248	29	open crypt
+249	16	press east wall
+250	26	search seat
+251	16	push joystick east
+252	61	prick dummy
+253	7	put mukhtar on table
+254	10	put white in toolkit
+255	10	click lpr
+256	34	push left button
+257	37	move rail with bar
+258	13	sleep
+259	12	pour coffee in drain
+260	29	close roof
+261	42	throw club at belt
+262	66	douse candles
+263	9	examine axe
+264	16	press information
+265	29	wake gnome
+266	9	examine barrels
+267	24	drop pump
+268	48	lower flag
+269	4	show file to district attorney
+270	10	take plank
+271	10	put opal cluster in knapsack
+272	27	unlock compartment
+273	10	get all but dagger
+274	9	examine key
+275	23	pour cold porridge in gigantic bowl
+276	48	drop grater
+277	10	get pole
+278	51	show mouse to elephant
+279	9	x left screen
+280	22	touch information
+281	15	open curtains
+282	10	get homing
+283	31	push button 1
+284	29	open bio-lock door
+285	57	read leaflet
+286	10	blorple 7
+287	55	lie on couch
+288	10	extend ladder
+289	48	drop coconut
+290	10	light flashlight
+291	65	examine lever
+292	3	pull hose
+293	28	learn caskly
+294	66	fill tank with air
+295	65	x light
+296	69	cut blue wire
+297	16	press emergency button
+298	10	take implementeers
+299	29	fill hat with water
+300	10	put torch in well
+301	10	get nasty knife
+302	26	search couch
+303	24	drop all except radio
+304	14	odysseus
+305	28	learn snavig
+306	65	examine snooker table
+307	32	wave spar
+308	10	grab rope
+309	48	drop clock
+310	2	raise basket
+311	24	drop decaf
+312	9	x rack
+313	16	push dionysus southwest
+314	24	drop all cubes
+315	10	take shaft
+316	28	read dusty scroll
+317	10	stop blade
+318	10	take radio
+319	10	take clock
+320	69	cut line with knife
+321	24	drop screw
+322	28	learn urbzig
+323	10	take safe
+324	29	close canteen
+325	48	drop crampons
+326	59	give candy to lizard
+327	24	drop finch
+328	29	open piano
+329	48	drop lantern
+330	10	get card
+331	48	drop scrawled
+332	28	read spotted scroll
+333	29	open locket
+334	2	open curtain
+335	53	buy bag
+336	24	slide t
+337	10	get off carpet
+338	44	remove junk with forklift
+339	59	give paper to girl
+340	48	drop bladder
+341	9	x mushroom
+342	51	show crossbow to dragon
+343	42	throw rope into chute
+344	65	x sketch
+345	16	push pram e
+346	22	kiss corpse
+347	31	push coffin n
+348	57	read scroll
+349	10	ask dragon about red
+350	65	x pool
+351	2	open freezer
+352	4	show book to gnome
+353	29	open west door
+354	4	show ruby to pigeon
+355	38	roll statue sw
+356	24	drop canteen and shuttle card
+357	36	climb down rope
+358	57	learn snavig
+359	10	get container
+360	9	x slot
+361	65	x pedestal
+362	10	get dagger
+363	10	gnusto swanzo spell
+364	24	turn m
+365	37	move cover
+366	15	open washing machine with poker
+367	59	give opal, ruby, sapphire and emerald to guard
+368	48	drop cup
+369	41	remove gas mask
+370	10	take balloon
+371	10	get portrait and bills
+372	10	gnusto shiny scroll
+373	10	get mail
+374	10	turn on stove
+375	10	take thumb
+376	10	get spray
+377	15	open metal cover
+378	15	open guage
+379	10	dig earth
+380	48	drop newspaper
+381	9	x copy
+382	10	put bit in tea
+383	10	put probe in slab
+384	10	put blue in glasses
+385	31	push boulder
+386	2	knight, open flagstone
+387	65	note it
+388	48	drop branch
+389	10	get drill
+390	53	jacket
+391	48	drop axe
+392	16	push statue
+393	58	pull pin
+394	10	get ruby
+395	42	throw star at young woman
+396	9	x generator
+397	48	drop perfume
+398	10	put all in fireplace
+399	48	raise beam
+400	24	turn dial to 3
+401	10	put battery in panel
+402	63	look in crack
+403	48	drop stone
+404	57	read sapphire scratch with glass
+405	51	show ledger to magistrate
+406	28	learn gloth
+407	10	take crumpled scroll
+408	2	open gate
+409	7	put flask under spout
+410	10	get dumbells
+411	10	ask him about librarian
+412	29	fill teapot
+413	10	offer 400
+414	28	read research paper
+415	10	get topaz
+416	10	take mud
+417	24	drop sack
+418	0	wear badge
+419	9	x coffee
+420	9	x magnetite
+421	48	drop plug
+422	10	get out of chair
+423	59	give gram to danielle
+424	40	follow pig
+425	47	break branch
+426	42	throw stick at herman
+427	10	get knapsack
+428	48	drop hair dryer
+429	65	examine barrow
+430	29	open window
+431	48	drop boots
+432	29	burn rope with candle
+433	9	x cat
+434	10	fwoosh
+435	65	x implementor
+436	65	examine fawkes
+437	7	put gum on stick
+438	2	open toilet
+439	48	drop hammer
+440	10	get toaster
+441	10	get in forklift
+442	15	open floyd
+443	57	read crypt
+444	37	move rug
+445	63	look under table
+446	10	insert wishbringer in sculpture
+447	10	get pearl
+448	65	examine washing machine
+449	53	buy peanuts
+450	10	get maiden
+451	65	x pig
+452	16	push demeter southwest
+453	9	x coin
+454	10	get honey
+455	65	examine pedestal
+456	26	search shelves
+457	10	blow shawm
+458	9	x boat
+459	9	x pan
+460	10	get bees
+461	2	roll statue ne
+462	33	mouse, south
+463	3	pull chain
+464	10	take pallet
+465	15	open cupboard
+466	48	drop cage
+467	10	frotz burin
+468	65	examine thyme
+469	59	give rag to skier
+470	16	press down
+471	24	drop booklet
+472	57	read ripped
+473	48	drop birdcage
+474	10	take all but lantern
+475	10	alexis, heel
+476	34	push tree north
+477	46	chop tree
+478	2	open bird
+479	14	say ialdabaoloth
+480	10	put egg in pot
+481	48	drop toy
+482	48	drop portrait and bills
+483	33	slide s
+484	34	push dusty s
+485	2	open pizza box
+486	2	close valve
+487	48	drop it
+488	10	take mask
+489	10	take astrolabe
+490	33	climb down
+491	10	put it in niche
+492	10	take sapphire
+493	10	ask about evidence
+494	48	drop torch
+495	31	push table s
+496	28	read warning note
+497	36	climb rope
+498	3	pull cord
+499	10	ask tip for tool
+500	59	give money to hawker
+501	10	put coin in jukebox
+502	10	take dusty brick
+503	26	search wine rack
+504	14	say minirva
+505	0	wear balls
+506	9	examine tide
+507	15	open trunk
+508	31	push painting
+509	41	remove towel
+510	50	pour water on coin
+511	10	put compass rose in carving
+512	7	put it on tomb
+513	44	remove cloak
+514	29	open notebook
+515	15	open west door
+516	16	push dusty n
+517	28	learn foblub
+518	15	open fur sack
+519	10	point at cola
+520	10	point it at mural
+521	9	examine switch a
+522	0	wear sash
+523	16	press green
+524	9	x hermit
+525	10	get pumpkin
+526	24	drop third brick
+527	62	eat bar
+528	10	get particule
+529	10	take ash tray
+530	65	examine axe
+531	10	put epic poem in kappa
+532	10	take crowbar
+533	31	push it south
+534	9	examine lever
+535	10	click on edit
+536	9	x chopper
+537	7	put eight on pack
+538	15	open back door
+539	10	take stone
+540	24	turn knob to high
+541	10	take blue
+542	57	read flimsy scroll
+543	32	wave scroll
+544	24	drop matchbook
+545	26	search painting
+546	55	prosser, lie in the mud
+547	21	kick south wall
+548	10	look up 1420 in map
+549	65	examine blossoms
+550	28	learn izyuk
+551	28	read huge tome
+552	10	hole, n
+553	24	turn selkis
+554	10	take slip
+555	24	drop pyramid
+556	48	drop bread
+557	10	take analgesic
+558	34	push demeter southwest
+559	9	examine dynamite
+560	10	get out of cot
+561	65	x contact points
+562	65	examine lights
+563	65	examine tide
+564	29	close furnace
+565	36	enter outflow pipe
+566	16	push button 9
+567	48	robot, lift cage
+568	10	get label
+569	10	ask her about rare books
+570	10	get indigo vial
+571	10	take sketch
+572	15	open container
+573	33	go through south wall
+574	24	drop pickaxe
+575	9	examine bookcase
+576	65	examine cage
+577	48	drop drill
+578	15	open catch
+579	10	ask for mycroft holmes
+580	58	pull tinsel
+581	10	put bread in zipper
+582	15	open orange vial
+583	10	blow in tube
+584	59	dragon, give ring to me
+585	48	drop paper
+586	24	drop flat key
+587	2	open wallet
+588	10	put celery in purse
+589	31	push dispenser button
+590	48	drop wrench
+591	10	get brown
+592	15	open filing cabinet
+593	65	examine rose
+594	24	drop trident
+595	32	shake safe
+596	0	wear it
+597	36	enter handcar
+598	66	fill jug
+599	65	x clock
+600	29	open grate
+601	23	pour water in silver chalice
+602	25	whip smooth lion
+603	10	get gear
+604	24	move cover
+605	10	put coal in basket
+606	24	turn dial to 11
+607	65	x copy
+608	65	x pass
+609	27	unlock chest with brass key
+610	65	x control
+611	24	drop dodo
+612	48	drop trap
+613	36	dock
+614	10	take gloves
+615	24	drop bird
+616	48	drop all bricks
+617	24	turn dial right
+618	69	cut growth with cutter
+619	10	polish orb
+620	65	x bag
+621	34	push bed
+622	16	press knob
+623	10	get bananas
+624	10	get ball
+625	24	drop flint
+626	57	read emerald scratch with glass
+627	10	get book
+628	10	get flask
+629	24	slide upper card through slot
+630	10	turn on space heater
+631	10	take hand
+632	65	examine fin
+633	9	examine post
+634	9	x note
+635	57	learn girgol
+636	57	read page
+637	24	drop vial
+638	48	drop scarf
+639	9	x column
+640	10	take brown rod
+641	4	show $500
+642	65	x keypad
+643	51	show ticket to gravedigger
+644	15	open purple book
+645	33	aft
+646	15	open shield
+647	31	push bell
+648	48	drop fork
+649	48	drop umbrella
+650	10	put thumb in hole
+651	9	examine mousetrap
+652	9	x old man
+653	10	get rods from sack
+654	36	enter hole
+655	65	x contraption
+656	36	enter gazebo
+657	9	x grenade
+658	16	push railing
+659	28	read poetry
+660	24	drop it
+661	10	ask allarah about red
+662	33	d
+663	23	pour liquid on body
+664	28	read ripped
+665	57	learn frotz
+666	29	open net
+667	64	type 384
+668	29	close trapdoor
+669	9	x dusty brick
+670	9	x plate
+671	57	learn lleps
+672	10	take gumball
+673	29	open bottle
+674	9	x minerals
+675	9	examine floor
+676	48	drop honey
+677	9	x farm
+678	65	x painting
+679	31	push knob
+680	58	pull pipe
+681	10	get rusty knife
+682	69	ask wolf to blow turbine
+683	48	drop red hat
+684	16	press techno
+685	9	examine magpie
+686	9	examine porridge oats
+687	9	x indicator
+688	65	examine lemming
+689	10	take all from toolshed
+690	57	learn throck
+691	2	open compartment
+692	10	get bazooka
+693	10	take painting
+694	29	open flask
+695	2	open box
+696	54	cut rope with knife
+697	31	push play
+698	41	remove new brick with crowbar
+699	65	note dryer
+700	10	get soap
+701	15	open terminal
+702	29	open hatch
+703	0	wear sack
+704	10	set third wheel to 8
+705	22	touch calibration
+706	15	open bin
+707	11	write 4 on cube
+708	9	x sheet
+709	10	get food
+710	26	search furniture
+711	63	look behind tapestry
+712	31	push moldy s
+713	60	wait for 36 hours
+714	15	open receptacle
+715	29	open bin
+716	58	pull slide
+717	65	examine stamps
+718	10	take manual
+719	10	gnusto zemdor
+720	26	search mess
+721	4	show note to chuckles
+722	21	hit plaster with pickaxe
+723	10	get slip of paper
+724	9	examine hive
+725	27	unlock hatch
+726	65	examine output
+727	57	read envelope
+728	10	insert opal cluster in fourth hole
+729	11	write 12 on cube
+730	10	get dynamite
+731	69	roll statue nw
+732	10	put crossbow in sack
+733	16	press forcefield
+734	7	put tree on square
+735	10	get pile
+736	9	x crack
+737	15	open aqua vial
+738	16	press gray button
+739	24	move bookshelf
+740	48	lift plywood cover
+741	28	read missive
+742	65	x knife
+743	9	examine chasm
+744	48	drop dino
+745	55	sit on large chair
+746	11	write 2 on cube
+747	10	take amethysts
+748	10	get pacquet, paper and crayon
+749	42	throw club at herman
+750	33	climb tree
+751	10	point it at me
+752	2	open window
+753	10	put white in unit
+754	63	look at queenie
+755	10	take feather
+756	65	examine cups
+757	33	slide upper card through slot
+758	7	put pallet on boulder
+759	66	fill bowl
+760	10	put silver coin in pocket
+761	10	get interface
+762	65	x blade
+763	33	mouse, west
+764	10	get guano, scroll and amber vial
+765	48	lift seat
+766	42	throw axe at cord
+767	12	pour fluid in hole
+768	29	open dish washer
+769	10	turn drill on
+770	48	drop bench
+771	10	frotz candle
+772	15	stand in long line
+773	24	drop shovel
+774	9	examine slipper
+775	14	say agamemnon
+776	65	watch television
+777	63	look in safe
+778	10	get chewed scroll
+779	33	roll statue se
+780	29	wake up old man
+781	3	pull mat
+782	10	dig in tub
+783	10	take staff
+784	63	look at window pane
+785	29	close locket
+786	9	x stove
+787	0	wear cap
+788	9	x it
+789	15	open envelope
+790	43	smell
+791	29	open sack
+792	15	open tray
+793	10	take yellow pill
+794	10	put dust in vent
+795	65	examine flytrap
+796	65	examine shadow
+797	10	gnusto wigro
+798	2	close door
+799	57	learn huncho
+800	57	read gray scroll
+801	65	x chest
+802	29	clean table with cloth
+803	10	get rusty key
+804	10	look up eustacia in album
+805	24	drop whistle
+806	69	cut line with axe
+807	55	sit on dragon
+808	9	examine sapphire
+809	7	put flag on bed
+810	50	pour fluid in hole
+811	47	smash seal
+812	58	pull line
+813	10	stop
+814	10	drive to whitehall
+815	7	put hand on statue
+816	15	open door with crowbar
+817	65	note sink
+818	20	strike rod of infinity
+819	10	put bladder in sack
+820	66	anoint me
+821	10	put trophy in depression
+822	10	put ebony in eastern niche
+823	14	say -120 to garrulous
+824	24	turn ring to fifth symbol
+825	27	unlock filing cabinet with key
+826	48	drop teapot
+827	63	look in fountain
+828	24	turn dial right 3
+829	59	give gram to ed
+830	29	open bag
+831	10	turn off lantern
+832	48	drop firestone
+833	9	x books
+834	2	open crate with poker
+835	9	x book
+836	10	get chest
+837	10	get scroll
+838	48	drop notice
+839	65	x photograph
+840	31	push red
+841	2	open outer door
+842	10	take stopper
+843	10	ask charles about temple
+844	10	put cereal in pot
+845	10	take thick brick
+846	2	open net
+847	10	ask fairy godmother about horse
+848	10	set first wheel to 9
+849	59	give gram to alicia
+850	35	drink liquid
+851	9	examine sundial
+852	65	x leaf
+853	57	read twisted
+854	59	give tablets to trent
+855	28	read back of brown paper
+856	24	drop eggs
+857	48	drop hoard
+858	10	put stone in opening
+859	14	plover
+860	36	cross river
+861	65	x creature
+862	16	push rod
+863	27	unlock cupboard with key
+864	24	drop rope
+865	35	drink water
+866	10	take card
+867	9	examine barrow
+868	28	read envelope
+869	24	move stone
+870	65	x books
+871	29	fill bowl
+872	10	turn off flashlight
+873	10	get glasses
+874	10	tinsot water
+875	10	get boots
+876	14	blizzard
+877	10	take paper
+878	2	open bio-lock door
+879	10	get pistol
+880	10	focus slide lens
+881	48	drop dumbells
+882	10	take club
+883	2	open locket
+884	57	learn shazok
+885	29	heat brown paper over
+886	59	give fluff to arthur
+887	6	talk to man
+888	10	tell pigeon to get ruby
+889	50	pour coffee in drain
+890	65	x nest
+891	65	x window
+892	9	examine bandage
+893	10	get screwdriver
+894	9	examine parchment
+895	2	open zipper
+896	10	take needle
+897	48	drop pager
+898	9	examine charles
+899	15	open dish washer
+900	7	put copper key on keyring
+901	28	read diary
+902	16	push green button
+903	33	slide shuttle card through slot
+904	5	rub flower
+905	59	give hat to pelican
+906	10	take x10
+907	9	x mine
+908	65	x outcrop
+909	24	drop journal and key
+910	24	drop bread
+911	65	examine coconuts
+912	31	push button 3
+913	65	x crossbow
+914	36	climb porous wall
+915	9	x guard
+916	65	x information stud
+917	10	dig ground with axe
+918	29	empty zipper into sack
+919	9	examine table
+920	28	read stained scroll
+921	10	get ace
+922	59	give alpha to apollonius
+923	10	get dragon and paper
+924	29	open blue box
+925	10	cast lesoch
+926	14	say firefly to jim
+927	50	pour wine in green goblet
+928	51	show earth crystal to trent
+929	10	put match in wax
+930	57	read lettering
+931	65	x posse
+932	59	give carton to hacker
+933	65	examine slip
+934	16	push coffin w
+935	65	x man
+936	48	drop shovel
+937	50	pour water on beanstalk
+938	41	remove coat
+939	10	ask hermit about exit
+940	15	open pot
+941	11	write cave on cube
+942	2	open west door
+943	29	open icebox
+944	53	buy telescope
+945	28	read opal scratch with glass
+946	65	x shape
+947	29	empty pot
+948	16	push purple
+949	63	look under bunk
+950	15	open manhole with crowbar
+951	64	type 0628 on laptop
+952	37	move floorboards
+953	59	give case to jenny
+954	10	ask spirit for name
+955	2	open catch
+956	28	learn bozbar
+957	48	drop chain
+958	65	examine plate
+959	28	learn lobal
+960	10	get needle
+961	21	kick second window
+962	10	take a picture
+963	10	pulver river
+964	1	tie rope to altar
+965	57	read warped
+966	10	get in golden machine
+967	10	set second wheel to 2
+968	34	push poseidon northeast
+969	9	examine machine
+970	10	cast girgol
+971	10	yomin barker
+972	10	take pigeon
+973	29	open matchbox
+974	10	put gold in slot
+975	2	open front door
+976	10	ask wolf about pigs
+977	33	slide e
+978	10	put clear sphere in diamond stand
+979	34	push bookcase
+980	2	open carton
+981	10	get cloak
+982	36	climb can
+983	24	drop cloth
+984	10	put dagger in chest
+985	33	roll statue sw
+986	59	give $56
+987	24	drop match
+988	58	pull weed
+989	48	drop skink
+990	10	put red sphere in pot
+991	24	drop pipe
+992	9	x pig
+993	48	drop card
+994	16	push table s
+995	7	put skull on statue
+996	10	take syringe
+997	65	x barman
+998	10	blow horn
+999	10	put all in pocket
+1000	7	put sphere on pentagram
+1001	65	examine plant
+1002	33	climb porous wall
+1003	7	put maiden on pack
+1004	2	open packet
+1005	10	point to key
+1006	10	put headdress in pot
+1007	0	wear clown mask
+1008	2	open fur sack
+1009	29	open portrait
+1010	31	push moldy n
+1011	10	izyuk me
+1012	24	turn ring to sixth symbol
+1013	65	x floorboards
+1014	10	put sugar in pan
+1015	59	give goggles to cheryl
+1016	50	pour milk in cauldron
+1017	15	dragon, open door
+1018	63	look at bookshelf
+1019	10	take thorn
+1020	28	read notes
+1021	21	hit creature with hook
+1022	24	slide kitchen card through slot
+1023	2	open bin
+1024	28	learn nitfol
+1025	10	blorb adventurer
+1026	24	turn sceptre
+1027	10	get all
+1028	28	read brochure
+1029	34	push fountain
+1030	36	enter window
+1031	10	get pencil
+1032	24	drop plans
+1033	30	sit on dragon
+1034	65	x plaque
+1035	10	put ledger in pot
+1036	27	unlock hatch with brass key
+1037	65	x female
+1038	65	x magazines
+1039	4	show case to jenny
+1040	33	out
+1041	29	open tin
+1042	10	get pendant
+1043	63	l in hatch
+1044	10	gnusto fweep spell
+1045	48	drop all but pincer
+1046	42	throw gun at herman
+1047	10	gnusto bekdab
+1048	9	examine urchin
+1049	9	examine rope
+1050	28	read faded
+1051	10	get film and slide
+1052	10	insert good bedistor in cube
+1053	20	strike rod of ice
+1054	28	read matchbook
+1055	46	drill case with drill
+1056	26	search ruins
+1057	29	open envelope
+1058	10	put jar in knapsack
+1059	29	open fridge
+1060	10	taclor me
+1061	23	pour water on detective
+1062	10	take vase
+1063	9	x fungus
+1064	32	wave crook
+1065	39	rub flower
+1066	24	roll statue se
+1067	10	put peg in hole
+1068	10	turn on floyd
+1069	3	pull rods
+1070	41	remove balls
+1071	24	drop fruit
+1072	16	push pine panel
+1073	23	pour milk in cauldron
+1074	10	kulcad stairs
+1075	9	x electric panel
+1076	65	x officer
+1077	10	get up
+1078	9	x crossbow
+1079	22	touch red
+1080	10	get canary
+1081	10	put guano in cannon
+1082	10	put sketch in projector
+1083	24	turn screw
+1084	48	drop container and assignment
+1085	30	sit on green rock
+1086	25	shake lamp
+1087	2	open grating
+1088	10	turn radio off
+1089	10	put bug in sack
+1090	7	put scraps on anvil
+1091	24	move slab
+1092	48	drop journal and key
+1093	10	put vase in opening
+1094	62	eat tablet
+1095	10	bekdab golem
+1096	9	x cage
+1097	10	shoot prey
+1098	15	open notebook
+1099	10	get clear sphere
+1100	57	learn ozmoo
+1101	10	put letter opener in keyhole
+1102	65	x generator
+1103	9	x bushes
+1104	10	cook pork chops
+1105	10	insert film in film projector
+1106	4	show card to chuckles
+1107	10	take iron key
+1108	10	put cave cube in bottom right socket
+1109	55	lie on bed
+1110	24	drop cage
+1111	57	read term paper
+1112	65	examine pigeons
+1113	10	exex turtle
+1114	9	x security gates
+1115	65	examine fireplace
+1116	50	pour liquid on torch
+1117	10	get painting
+1118	29	open floyd
+1119	44	remove second board
+1120	3	pull flower
+1121	9	x cubicles
+1122	24	drop pillow
+1123	22	lick pet
+1124	33	climb can
+1125	31	push purple
+1126	30	sit on carpet
+1127	24	turn ring to third symbol
+1128	0	wear hat
+1129	48	drop tea
+1130	65	examine corpse
+1131	59	give case to harry
+1132	9	examine computer
+1133	36	enter waterfall
+1134	10	mix pan
+1135	48	drop letter
+1136	9	x paper
+1137	9	examine film projector
+1138	1	tie rope to rod
+1139	28	read writing
+1140	65	examine missile
+1141	10	tell floyd to get shiny board
+1142	10	get tube
+1143	10	get tray
+1144	9	examine packet
+1145	10	get relay
+1146	44	remove old battery
+1147	10	get mug
+1148	10	look up mordecai in record
+1149	65	x whiteboard
+1150	10	look up william on nameplate
+1151	31	push newspaper under door
+1152	10	ask pitchman about dr nostrum
+1153	10	open app
+1154	2	open can
+1155	9	x thug
+1156	10	take ribbon
+1157	48	drop map
+1158	16	press south wall
+1159	22	touch bottom
+1160	9	x dust
+1161	48	drop all except radio
+1162	24	turn it
+1163	57	read brochure
+1164	10	take red
+1165	65	x probe
+1166	65	x dials
+1167	2	open jewellery box
+1168	29	open kit
+1169	10	arrest bill
+1170	10	get box
+1171	31	push autopilot button
+1172	10	put medicine bottle in shaft
+1173	24	drop label
+1174	10	put homing in hatch
+1175	10	insert capsule into reactor
+1176	10	get electromagnet
+1177	63	look in tear
+1178	28	learn liskon
+1179	50	pour hot porridge in gigantic bowl
+1180	24	drop all except bottle
+1181	65	x wall
+1182	57	learn krebf
+1183	42	throw all but book into lower chute
+1184	9	x chair
+1185	10	put ladder in well
+1186	29	open coffin
+1187	10	get bomb
+1188	24	drop crumpled
+1189	33	ahead
+1190	10	get crampons
+1191	53	buy beer
+1192	10	reach into pool
+1193	7	put on parka
+1194	34	push moldy s
+1195	65	x console
+1196	48	drop all but candle
+1197	62	eat green
+1198	10	get fish
+1199	10	get figure
+1200	65	x coach
+1201	10	get branch
+1202	10	put six coins in overhead
+1203	65	note tables
+1204	24	turn bolt with wrench
+1205	10	take all from chest
+1206	10	put mace cube in top right socket
+1207	29	open map
+1208	9	x crane
+1209	57	read booklet
+1210	63	look at device
+1211	9	examine plate
+1212	29	open outer door
+1213	2	open vial
+1214	15	open coffin
+1215	27	unlock drawer
+1216	9	x car
+1217	31	hammer scraps
+1218	31	push bookcase
+1219	34	push dionysus southwest
+1220	25	squeeze it
+1221	65	x flue
+1222	28	read page
+1223	31	push pram e
+1224	28	read frayed scroll
+1225	63	look in cauldron
+1226	10	ask pedlar about suitcase
+1227	32	wave beads
+1228	10	take wrapper
+1229	10	put short poem in alpha
+1230	10	insert blue card in slot
+1231	34	push autopilot button
+1232	10	put gram in basket
+1233	10	get test
+1234	10	get luck
+1235	48	drop plotter
+1236	32	wave hairband
+1237	10	take all but parchment
+1238	37	move handle
+1239	24	drop red hat
+1240	44	remove goggles
+1241	10	swanzo belboz
+1242	24	drop carton
+1243	48	drop beer can
+1244	16	push newspaper under door
+1245	10	y
+1246	10	get volume
+1247	10	get can
+1248	33	slide t
+1249	65	x gauge
+1250	54	cut blue wire
+1251	57	read hieroglyphs
+1252	9	x console
+1253	10	take black rod
+1254	2	open shark repellent
+1255	2	open blue box
+1256	2	close access panel
+1257	10	manaz
+1258	28	learn krebf
+1259	34	push rock
+1260	10	frotz coin
+1261	10	fweep me
+1262	58	pull leaves
+1263	51	show scrap to chuckles
+1264	51	show violet to trent
+1265	27	untie horse
+1266	10	take all from pot
+1267	10	take tiepin
+1268	10	get flash
+1269	9	examine skeleton
+1270	48	drop ox
+1271	10	take white rod
+1272	48	drop drive
+1273	2	open cabinet
+1274	36	enter pub
+1275	10	take suitcase
+1276	10	take list
+1277	65	x treant
+1278	48	drop screw
+1279	48	drop pan
+1280	16	push red button
+1281	65	x pen
+1282	34	push pine panel
+1283	10	get wine
+1284	65	examine bookcase
+1285	10	take all except key, whip, stool
+1286	10	get gold
+1287	10	put skink in pocket
+1288	28	learn gondar
+1289	10	light fuse with match
+1290	10	take scrap
+1291	10	turn projector on
+1292	2	open orange vial
+1293	10	put lens in telescope
+1294	0	wear skis
+1295	10	take binoculars
+1296	48	drop shiny key
+1297	10	take coconut
+1298	10	turn on flashlight
+1299	39	erase line between b and r
+1300	63	look behind painting
+1301	29	close plate
+1302	10	get improbability drive
+1303	44	remove shim
+1304	24	turn ring to second symbol
+1305	57	read vellum scroll
+1306	41	remove second board
+1307	24	turn isis
+1308	63	look in nest
+1309	57	read of unseen terror
+1310	31	push west wall
+1311	24	drop brown
+1312	10	take pan
+1313	2	roll statue nw
+1314	36	climb up piano
+1315	15	open royal-blue box
+1316	10	put golden chalice in knapsack
+1317	9	x bulbs
+1318	10	shoot thad
+1319	9	x pack
+1320	24	drop firestone
+1321	65	x cooler
+1322	23	pour wine in blue goblet
+1323	10	dive in ocean
+1324	57	learn gondar
+1325	65	x wallet
+1326	48	lower basket
+1327	7	put beam across doorway
+1328	10	look up elijah inrecord
+1329	9	x trees
+1330	41	remove cloak
+1331	16	press yellow button
+1332	10	get rubies
+1333	2	open tray
+1334	49	shazok storm
+1335	23	pour water on powder
+1336	9	x gun
+1337	10	blorple 2
+1338	10	take ebony
+1339	57	read ledger
+1340	16	push second switch
+1341	57	read cracked
+1342	65	x robot
+1343	59	give copy to male
+1344	2	open cauldron
+1345	2	open lid
+1346	2	open back door
+1347	4	show brick to gnome
+1348	24	drop crayon and pacquet
+1349	31	push piano north
+1350	65	x blank card
+1351	29	open white door
+1352	65	examine shiny scroll
+1353	2	close matchbook
+1354	65	x rack
+1355	10	get lens
+1356	31	push pram east
+1357	48	drop booklet
+1358	10	plant fluff in flowerpot
+1359	65	x male
+1360	9	x carpark
+1361	10	put coin in net
+1362	24	move carpet
+1363	48	drop crown, stamp, zorkmid and ruby
+1364	38	slide s
+1365	57	read newspaper
+1366	10	put diamond in case
+1367	14	say time
+1368	10	put it in hat
+1369	10	put bracelet in case
+1370	10	gnusto meef spell
+1371	29	open container
+1372	69	cut rope with knife
+1373	24	drop photo
+1374	60	wait for johnny
+1375	65	x boxes
+1376	28	read flimsy scroll
+1377	65	x salt
+1378	15	open chest
+1379	33	climb rope
+1380	10	ask her about key
+1381	37	move moose
+1382	10	get line
+1383	57	read dusty scroll
+1384	48	drop sticker
+1385	24	drop egg
+1386	15	lean ladder against fence
+1387	10	get emerald
+1388	42	throw green at gray
+1389	9	examine plant pots
+1390	15	open buoy
+1391	36	enter right end of plank
+1392	50	pour cold porridge in gigantic bowl
+1393	15	open pouch
+1394	31	push bed
+1395	59	give towel to arthur
+1396	10	take raincoat
+1397	27	unlock door
+1398	65	x metal thing
+1399	10	get paint
+1400	10	insert yellow card in slot
+1401	65	x book
+1402	25	shake pan
+1403	28	read letter to woman
+1404	9	examine book
+1405	15	open crypt
+1406	24	drop jewelry
+1407	10	aimfiz belboz
+1408	59	give ticket 2306 to barker
+1409	12	pour vodka in cola
+1410	2	open green bottle
+1411	65	x arcade
+1412	10	put it in receptacle
+1413	33	go chandelier
+1414	65	x minerals
+1415	7	put bronze on left
+1416	10	put red cake in pool
+1417	24	drop telescope
+1418	2	shake pan
+1419	69	cut line with dagger
+1420	10	snavig grue
+1421	10	tossio golem
+1422	2	close slot
+1423	10	gnoeval
+1424	41	remove glasses
+1425	24	guards, drop rifles
+1426	32	shake pan
+1427	15	open briefcase
+1428	10	turn on lantern
+1429	34	push bunk
+1430	16	push south wall
+1431	24	drop hair dryer
+1432	24	turn door
+1433	15	open blue box
+1434	29	open secret panel
+1435	25	sharpen knife on rock
+1436	24	move handle
+1437	10	get spar
+1438	10	put scarab in case
+1439	10	get blue
+1440	15	open wallet
+1441	10	robot, east and south
+1442	59	give ticket to rimshaw
+1443	10	put firework in toolkit
+1444	48	drop historical
+1445	34	push golden machine south
+1446	65	x brick
+1447	10	turn off lamp
+1448	24	drop clock
+1449	10	unplug tv
+1450	24	drop briefcase
+1451	10	malyon idol
+1452	48	drop rubies
+1453	57	read scriptures
+1454	29	open cage
+1455	22	touch yellow
+1456	35	drink wine
+1457	34	push locker east
+1458	34	push statue n
+1459	15	open net
+1460	10	get chisel
+1461	29	close panel
+1462	57	learn lesoch
+1463	24	drop candles
+1464	31	push ass
+1465	10	take ledger
+1466	9	examine herbs
+1467	10	get rod of life
+1468	9	examine tree
+1469	27	unlock door with iron key
+1470	29	open compartment
+1471	63	look through binoculars at shelter
+1472	2	open lab door
+1473	10	gnusto exex spell
+1474	65	examine sundial
+1475	9	x shape
+1476	65	examine switch a
+1477	10	point down
+1478	10	get wallet
+1479	10	get cup
+1480	65	examine reeds
+1481	48	drop myrrh
+1482	2	marvin, open the hatch
+1483	10	take stand
+1484	43	taste it
+1485	65	x panel
+1486	59	give cola to guard
+1487	10	get hammer
+1488	10	take robe
+1489	31	push golden machine east
+1490	10	take torch
+1491	10	get candles
+1492	9	examine tombs
+1493	51	show ribbon to chuckles
+1494	25	wind canary
+1495	28	read faded scroll
+1496	28	learn zifmia
+1497	15	open brown bottle
+1498	65	x terrock
+1499	51	show keepsake to knight
+1500	3	pull anchor
+1501	28	learn meef, meef and swanzo
+1502	0	wear coat
+1503	16	push locker east
+1504	42	throw body in pit
+1505	10	get rod of fire
+1506	33	climb piano
+1507	44	remove third brick
+1508	10	upload picture
+1509	65	examine bridge
+1510	48	drop knife and crowbar
+1511	10	ask k9 about k9
+1512	10	ask what gnome looking for
+1513	9	examine large chair
+1514	66	cover hole 6
+1515	9	x slabs
+1516	9	examine pram
+1517	10	get blue paper
+1518	10	take all but pram
+1519	10	turn on videophone
+1520	48	lift grate
+1521	32	wave bean pole
+1522	24	drop book
+1523	10	put crystal in space
+1524	15	open forge
+1525	29	open toolkit
+1526	2	open closet
+1527	29	wake implementor
+1528	10	take flat key
+1529	65	x key
+1530	10	turn on bulb
+1531	63	look under bed
+1532	10	put torch in case
+1533	58	pull breaker
+1534	36	climb scarf
+1535	10	get sketch
+1536	15	open closet
+1537	33	fly
+1538	48	drop sack
+1539	59	give cola to britney
+1540	10	hole, e
+1541	21	hit board
+1542	9	examine icicles
+1543	10	turn on autopilot
+1544	10	get grater
+1545	9	x servers
+1546	10	take gores
+1547	31	push left button
+1548	10	take scroll
+1549	10	get canteen
+1550	26	search waterfall
+1551	10	get bird
+1552	63	look under sofa
+1553	24	drop painting
+1554	65	x plants
+1555	10	put 10 in box
+1556	38	roll statue se
+1557	16	push lever
+1558	16	push ass
+1559	9	examine gnomon
+1560	10	get crook
+1561	24	drop carpet
+1562	10	ask belboz about me
+1563	10	get firestone
+1564	24	turn dial to 639
+1565	10	get ekmek
+1566	10	get pack
+1567	58	pull anchor
+1568	24	drop pole
+1569	24	slide l
+1570	31	push wand
+1571	10	take x1,x2,x7,x8
+1572	9	x figure
+1573	15	open tank
+1574	2	close panel
+1575	65	x crane
+1576	29	open aqua vial
+1577	10	get toolkit
+1578	10	get magic porridge pot
+1579	57	read sign
+1580	10	put diamond in basket
+1581	2	close plate
+1582	34	push joystick east
+1583	5	spray thug
+1584	59	give garter to papa
+1585	10	get all from table
+1586	24	turn dial left 4
+1587	2	shake lamp
+1588	10	get album
+1589	28	read scrawled
+1590	2	open it
+1591	30	hang it on hooks
+1592	9	x grill
+1593	65	x bones
+1594	2	open brown bottle
+1595	12	pour wax on floor
+1596	21	hit dog
+1597	57	read opal scratch with glass
+1598	63	look at tag through lens
+1599	26	search oats
+1600	2	open aqua vial
+1601	10	google it
+1602	24	drop chest
+1603	10	put skull in case
+1604	65	examine headphones
+1605	29	close oven
+1606	24	turn neith
+1607	10	take mouse
+1608	24	drop secateurs
+1609	10	get all from demijohn
+1610	9	examine coin
+1611	59	give jewels to guard
+1612	66	fill bath
+1613	48	drop box
+1614	29	open lab uniform
+1615	9	x well
+1616	30	sit on chair
+1617	53	3
+1618	10	take pig
+1619	48	drop mud
+1620	10	take eyes with tongs
+1621	24	drop multi
+1622	9	x torn clothes
+1623	2	open receptacle
+1624	24	drop matches
+1625	28	read killing
+1626	10	gnusto snavig
+1627	28	read plaque
+1628	63	listen
+1629	10	get apple
+1630	65	examine box
+1631	65	x printouts
+1632	0	wear fur
+1633	24	drop can
+1634	8	pray to kraxis
+1635	36	enter inflow pipe
+1636	65	examine dagger
+1637	10	blorple 12
+1638	9	x prep table
+1639	31	push railing
+1640	67	play organ
+1641	65	examine tiny metal
+1642	34	push piano south
+1643	65	x top shelf
+1644	9	x flower
+1645	9	examine items
+1646	10	turn on homing
+1647	65	x dragon
+1648	10	foo
+1649	33	walk 4 paces west
+1650	10	take gold coin from right pan
+1651	41	remove third brick
+1652	9	examine door
+1653	10	put arrow in crossbow
+1654	9	examine boy
+1655	29	burn string
+1656	16	push green
+1657	44	remove hood
+1658	24	drop perfume
+1659	29	open chest with needle
+1660	29	fill bottle
+1661	65	x guard
+1662	57	read garnet scratch with glass
+1663	65	x fuse
+1664	10	get jewellery box
+1665	9	x dials
+1666	53	buy c battery and putty
+1667	9	x powerup stud
+1668	24	drop scrawled
+1669	9	x hat
+1670	65	x bubble
+1671	57	read stained scroll
+1672	63	look into wagon
+1673	9	x horriblis
+1674	29	marvin, open the hatch
+1675	57	learn rezrov
+1676	47	break bottle
+1677	10	get x12
+1678	7	put mat under door
+1679	25	shake branch
+1680	16	press white, gray, black, red, black
+1681	15	hang bucket on third peg
+1682	10	put coin in pocket
+1683	15	open office door
+1684	10	fee
+1685	10	take jug
+1686	65	x curtain
+1687	10	take kitten
+1688	15	open lid
+1689	10	point it at metal
+1690	24	drop notice
+1691	10	get kitchen card and upper card
+1692	65	x sandstone
+1693	65	examine sapphire
+1694	4	show green to trent
+1695	22	touch w rune with rose
+1696	9	x barman
+1697	53	buy blue carpet
+1698	36	enter shack
+1699	48	drop ticket
+1700	48	drop candles
+1701	29	open grating
+1702	65	examine bird
+1703	28	read note
+1704	2	open cage
+1705	48	lower grate
+1706	48	drop water
+1707	47	break frame
+1708	48	drop third brick
+1709	11	carve my name on the memorial
+1710	22	touch man
+1711	10	take wand
+1712	7	put dart on claw
+1713	9	x wallet
+1714	9	x shadow
+1715	38	slide shuttle card through slot
+1716	10	get blue card
+1717	57	learn liskon
+1718	9	x cup
+1719	10	look up edward in record
+1720	10	take bread
+1721	10	get hydrant
+1722	23	pour liquid on torch
+1723	10	get bell
+1724	10	frotz bottle
+1725	10	take shroud
+1726	48	drop jewelry
+1727	9	examine goblin
+1728	16	push red
+1729	10	get sash
+1730	42	throw ball in pond
+1731	30	stand on charles
+1732	29	open crate
+1733	16	push button enter
+1734	65	examine porridge oats
+1735	10	put pan in oven
+1736	59	give corn to bird
+1737	0	wear jacket
+1738	15	open jar
+1739	10	get diamonds
+1740	26	search desk
+1741	64	shoot video
+1742	9	x pedestal
+1743	2	close furnace
+1744	24	drop wet suit
+1745	10	put branch in pit
+1746	10	take chest
+1747	4	show pole to gnome
+1748	10	get gum
+1749	4	show brick to pig
+1750	15	stand in line
+1751	53	satchel
+1752	23	pour water on net
+1753	65	examine refuse
+1754	26	search snow
+1755	10	bozbar horse
+1756	65	examine book
+1757	48	drop matchbook
+1758	10	take 3
+1759	10	get wrench
+1760	3	pull quartz
+1761	29	open demijohn
+1762	65	examine boots
+1763	10	ask gnome about color magnet
+1764	2	open secret panel
+1765	36	exit
+1766	42	throw ball at umbrella
+1767	9	x building
+1768	16	push table e
+1769	58	pull mat
+1770	33	jump to brown rock
+1771	2	open furnace
+1772	10	take packet
+1773	44	remove gas mask
+1774	33	go to statue
+1775	65	x dresser
+1776	10	gnusto cleesh spell
+1777	2	close oven
+1778	65	x sydney
+1779	63	look
+1780	29	open royal-blue box
+1781	29	open office door
+1782	10	insert green card in slot
+1783	14	hello
+1784	65	x mukhtar
+1785	10	light it
+1786	10	put tobacco in pipe
+1787	10	take rag
+1788	10	again
+1789	31	push ball south
+1790	15	open book
+1791	16	press brown button
+1792	16	push coffin s
+1793	10	gnusto melbor spell
+1794	15	open cage
+1795	15	open hatch
+1796	65	x flower
+1797	29	open receptacle
+1798	65	examine grimoire
+1799	9	x safe
+1800	33	go under wall
+1801	15	open case
+1802	2	open slab
+1803	29	open cupboard
+1804	31	push blue
+1805	15	open wooden door
+1806	48	drop bible
+1807	9	examine thyme
+1808	10	set slider to 31
+1809	9	examine pedestal
+1810	54	cut branch with knife
+1811	10	frotz me
+1812	65	x fungus
+1813	48	drop radio and pole
+1814	65	examine rolls
+1815	68	shake pan
+1816	31	push rock
+1817	10	get figurine
+1818	65	examine remote control
+1819	10	put fuse in generator
+1820	24	drop magnet
+1821	4	show torch to gnome
+1822	9	examine fin
+1823	48	drop chest
+1824	48	drop spectacles
+1825	10	take spreadsheet
+1826	10	put coin in loans
+1827	15	open fridge
+1828	10	get lockpick
+1829	7	put chain on hook
+1830	10	take red rod
+1831	24	drop glasses
+1832	63	look at stephanie
+1833	10	put coffin in case
+1834	42	throw it
+1835	16	push demeter northwest
+1836	10	get ticket
+1837	10	put brick in hole
+1838	29	open cover
+1839	10	take bird
+1840	48	drop carton
+1841	9	examine spade
+1842	10	ask k9 about cybermen
+1843	10	take mousetrap
+1844	65	x cup
+1845	10	gnusto feeyuk
+1846	33	slide lower card through slot
+1847	29	fill bath
+1848	10	gnusto krebf spell
+1849	10	get all from cabinet
+1850	65	examine emerald
+1851	10	take right foot
+1852	10	get cutter
+1853	65	examine log
+1854	65	x plate
+1855	29	fill tank with air
+1856	24	turn c
+1857	65	examine charles
+1858	15	open satchel
+1859	10	ask dragon about black
+1860	10	light candle
+1861	30	sit
+1862	24	drop toy
+1863	48	drop broom
+1864	9	x nest
+1865	44	remove new brick with crowbar
+1866	57	learn caskly
+1867	9	x status display
+1868	10	launch command
+1869	28	read map
+1870	57	read tag
+1871	10	get cue ball
+1872	65	examine white door
+1873	24	drop flask
+1874	1	tie wire to hook
+1875	62	eat peanuts
+1876	10	robot, north and press triangular button
+1877	10	get dragon
+1878	10	put lye in coat
+1879	69	cut rope with dagger
+1880	10	urbzig snake
+1881	14	dehlila
+1882	10	take napkin
+1883	9	examine statue
+1884	10	play arcade
+1885	24	drop beer can
+1886	29	melt head with torch
+1887	57	read subway
+1888	10	take amber
+1889	10	get beam
+1890	9	x camera
+1891	57	learn ledak
+1892	9	x plaque
+1893	9	examine switch b
+1894	10	put acorns in net
+1895	10	frotz lantern
+1896	28	read glittering scroll
+1897	9	examine shadow
+1898	42	throw meat in passage
+1899	10	put it in bag
+1900	10	take all from basket
+1901	10	get brain
+1902	51	show hand to urchin
+1903	15	open wardrobe
+1904	2	open pouch
+1905	10	mural, lagach
+1906	10	get lump
+1907	62	eat tiny bowl of porridge
+1908	9	x hawks
+1909	1	lock door with key
+1910	10	take fragment
+1911	22	touch wood with pole
+1912	10	take tinsel
+1913	48	drop shroud
+1914	10	take berries from pot
+1915	24	turn switch off
+1916	9	examine ball
+1917	10	take can
+1918	48	drop first brick
+1919	26	search fountain
+1920	9	examine log
+1921	10	take garlic
+1922	29	open door
+1923	15	open slab
+1924	10	get stained scroll
+1925	24	drop shiny key
+1926	65	examine splinter
+1927	59	give food to bear
+1928	10	get frog
+1929	22	touch blue
+1930	34	push table e
+1931	11	write 8 on cube
+1932	9	x floorboards
+1933	62	eat toadstone
+1934	24	move rug
+1935	10	take coin
+1936	9	x mural
+1937	24	drop ox
+1938	10	insert shiny board in panel
+1939	14	tina, hello
+1940	10	light firework
+1941	10	take 9
+1942	28	read blueprint
+1943	32	wave it in moonlight
+1944	10	take compass rose
+1945	10	taclor kobold
+1946	9	x couch
+1947	48	drop shield
+1948	2	close outer
+1949	33	slide l
+1950	24	drop boots
+1951	10	take circuit
+1952	41	remove cap
+1953	10	water bean
+1954	10	xyzzy
+1955	6	talk to woman
+1956	59	give lens to norbert
+1957	24	drop green rod
+1958	19	feed birds
+1959	10	espnis idol
+1960	15	open toilet
+1961	41	remove tank
+1962	10	still life, lagach
+1963	9	x blade
+1964	65	examine chasm
+1965	10	ask kemp about circuit breaker
+1966	57	read paper
+1967	10	aim bazooka at pod
+1968	24	drop teapot, rose, candy and gold key
+1969	24	drop container and assignment
+1970	10	ask marion about encyclopedia
+1971	9	x pots
+1972	10	put eyes in body
+1973	57	read diary
+1974	10	ask allarah about white
+1975	48	drop bandage
+1976	10	dig ground
+1977	10	rock, e
+1978	10	put fluff in bag
+1979	33	go to windy cave
+1980	10	get garter
+1981	10	get rose
+1982	10	snavig grouper
+1983	15	open freezer
+1984	24	drop aqua vial
+1985	31	push button enter
+1986	10	get flute
+1987	48	drop knapsack
+1988	0	wear cloak
+1989	31	push pet
+1990	10	put all in zipper
+1991	10	get out of pentagram
+1992	65	examine islet
+1993	63	look in bottle
+1994	10	put lemming in cage
+1995	10	get treatise
+1996	10	set dial to 948
+1997	2	open tin
+1998	57	read history book
+1999	28	read paper
+2000	63	look in closet
+2001	28	read slip of paper
+2002	9	x dresser
+2003	10	set compass to crane
+2004	65	x wheels
+2005	2	close roof
+2006	0	wear shield
+2007	10	get berries
+2008	27	unlock icebox with square key
+2009	10	insert beam in niches
+2010	2	open cell door
+2011	9	examine pigeons
+2012	28	read red scroll
+2013	10	get flippers
+2014	54	cut blue tassel
+2015	2	close circuit breaker
+2016	16	press 2
+2017	30	stand on chair
+2018	57	learn taclor
+2019	24	slide miniaturization card through slot
+2020	69	roll statue ne
+2021	44	remove hat
+2022	65	x electric panel
+2023	48	drop knife
+2024	9	examine radio
+2025	58	pull antenna
+2026	10	get steel key
+2027	16	push painting
+2028	29	open cabinet
+2029	9	x fan
+2030	10	guncho krill
+2031	4	show ticket to gravedigger
+2032	57	read news in newspaper
+2033	55	lie down
+2034	15	open raincoat
+2035	10	get laser
+2036	55	sit on green rock
+2037	48	drop gigantic bowl
+2038	48	drop finch
+2039	29	open cell door
+2040	10	turn on microphone
+2041	24	turn gnomon
+2042	29	close hatch
+2043	16	press powerup
+2044	16	push fountain
+2045	26	search straw
+2046	48	drop candle
+2047	10	blorple 8
+2048	48	drop pipe
+2049	51	show book to gnome
+2050	65	x flowers
+2051	9	x screen
+2052	59	give bread to old man
+2053	48	drop blanket
+2054	63	look under cushion
+2055	33	climb pillar
+2056	10	get rasp
+2057	10	get zorkmid
+2058	29	open air supply system with tool
+2059	24	drop gores
+2060	51	show note to chuckles
+2061	63	look under loudspeaker
+2062	57	learn fiznav
+2063	65	x hole
+2064	10	take match
+2065	30	sit in tiny little chair
+2066	37	move slab
+2067	10	get aqua vial
+2068	65	x stove
+2069	24	twist nose
+2070	65	x old man
+2071	10	take cup
+2072	1	tie rope to railing
+2073	35	drink medicine
+2074	10	take key from zipper
+2075	59	give mouse to fairy godmother
+2076	9	examine moss
+2077	24	roll statue nw
+2078	10	take balsa beam from northern niche
+2079	10	put lens in spotlight
+2080	54	scrape gum with card
+2081	11	write 11 on cube
+2082	10	put wisdom in left socket
+2083	41	remove junk with forklift
+2084	9	x marker
+2085	48	raise basket
+2086	10	get yellow
+2087	29	open lamp
+2088	9	x hawk
+2089	10	get magazine
+2090	28	read vellum scroll
+2091	59	give ring to butler
+2092	10	strike it
+2093	14	away
+2094	10	put control in top socket
+2095	9	examine dish
+2096	34	push switch
+2097	10	point wand at menhir
+2098	10	get matches
+2099	9	examine emerald
+2100	10	get match
+2101	34	push green button
+2102	9	examine plant
+2103	65	x servers
+2104	34	push statue w
+2105	10	reach in chopper
+2106	7	put gold coin on right
+2107	57	read back of blue paper
+2108	10	ask gnome about statue
+2109	10	rezrov gate
+2110	10	take tongs
+2111	21	hit lamp
+2112	28	read term paper
+2113	24	drop historical
+2114	11	type 384
+2115	10	take cereal
+2116	10	get bar
+2117	9	examine stamps
+2118	68	sharpen knife on rock
+2119	9	examine plans
+2120	14	say candle
+2121	10	get all from cupboard
+2122	10	get sprig
+2123	29	open can
+2124	2	close canteen
+2125	65	x lever
+2126	41	remove stethoscope
+2127	21	kick thug
+2128	24	drop soap
+2129	10	click on more
+2130	10	rewind tape
+2131	2	open door with crowbar
+2132	10	drive to the embankment
+2133	10	take bowl
+2134	31	push dionysus southwest
+2135	10	put coin in slot
+2136	48	drop remote control
+2137	65	examine toaster
+2138	10	get daisy
+2139	48	drop pyramid
+2140	10	take gothic key
+2141	65	x trees
+2142	24	drop all but brain
+2143	9	examine map
+2144	26	search table
+2145	2	open tarot box
+2146	10	take white scroll
+2147	48	drop bird
+2148	42	throw rod
+2149	48	drop eggs
+2150	29	clean lump
+2151	10	insert slide in it
+2152	28	learn jindak
+2153	10	put flour in pot
+2154	9	x keypad
+2155	10	get pots
+2156	10	blow spices at lafond
+2157	10	get trident
+2158	14	plugh
+2159	48	drop dusty book
+2160	47	break padlock with hook
+2161	10	take dorkmid
+2162	39	wipe web
+2163	2	open briefcase
+2164	2	open tapestry
+2165	29	shut panel
+2166	34	push wand
+2167	11	write on whiteboard with marker
+2168	9	x vial
+2169	10	put knife in purse
+2170	57	read matchbook
+2171	65	x thug
+2172	29	open pouch
+2173	10	get teapot
+2174	10	get pages
+2175	48	drop soap
+2176	10	take hamburger
+2177	48	drop firework
+2178	10	ask male about daddy
+2179	10	lleps urbzig
+2180	14	latitude is 25
+2181	59	give box of chocolates to jemima
+2182	2	open chest with needle
+2183	10	take opener
+2184	10	get coffin
+2185	10	get out of bunk
+2186	10	point west
+2187	36	climb stand
+2188	10	izyuk myself
+2189	35	drink whiskey
+2190	34	push golden machine east
+2191	9	x bats
+2192	65	x shelves
+2193	65	x storm
+2194	9	examine panel
+2195	10	point it at rod of life
+2196	32	shake lamp
+2197	7	put red flag on speckled
+2198	63	l in cabinet
+2199	10	take axe
+2200	15	open green bottle
+2201	36	climb down
+2202	65	x fan
+2203	10	get gumball
+2204	10	anoppe
+2205	10	clap
+2206	7	put gear on post
+2207	9	x coach
+2208	9	examine coffin
+2209	34	push lever
+2210	9	x pool
+2211	9	x homing
+2212	2	open crypt
+2213	10	look up partaim in fresto
+2214	9	examine walkie
+2215	51	show can to pet
+2216	0	wear crampons
+2217	9	examine ship
+2218	0	wear glasses
+2219	65	note vomit
+2220	10	ask proprietor about amulet
+2221	28	read crumpled
+2222	10	take silver coin
+2223	65	examine carvings
+2224	7	put wheel on peg
+2225	66	cover hole 3
+2226	63	look in cannon
+2227	10	egdelp golem
+2228	63	look at shape
+2229	63	look in it
+2230	10	ask harry about eddie smaldone
+2231	10	tinsot channel
+2232	2	open jeep
+2233	16	press white
+2234	36	enter dish
+2235	10	put flimsy scroll in zipper
+2236	28	learn taclor
+2237	10	get mine
+2238	59	give garnet to akbar
+2239	65	x security gates
+2240	65	examine dusty book
+2241	5	spray repellant on myself
+2242	10	get hand
+2243	10	get eggs
+2244	59	give pan to guard
+2245	10	put new battery in torch
+2246	9	examine thin man
+2247	63	look in displaycase
+2248	10	take tea
+2249	9	x photograph
+2250	31	push table e
+2251	36	enter square
+2252	57	read glittering scroll
+2253	16	press med
+2254	10	put black rod in hole
+2255	10	put sceptre in first socket
+2256	24	drop clipper
+2257	10	ask male about officer
+2258	10	get battery
+2259	9	examine thumb
+2260	2	open flask
+2261	24	drop package
+2262	10	take section
+2263	10	reach in sculpture
+2264	29	open clam with trident
+2265	49	shake lamp
+2266	1	lock door
+2267	10	inhale helium
+2268	29	close jar
+2269	0	wear fish
+2270	48	drop cloth
+2271	10	get sharp stone
+2272	10	take probe
+2273	12	pour water on beanstalk
+2274	10	put paper in receptacle
+2275	2	open locker
+2276	65	x natives
+2277	24	drop fish
+2278	16	push golden machine east
+2279	10	blow dust
+2280	59	give rose to knight
+2281	15	open air supply system with tool
+2282	10	get clover
+2283	14	say wheel
+2284	10	take bean pole
+2285	57	learn yomin
+2286	10	gnusto gondar spell
+2287	10	get piece of paper and business card
+2288	9	x sandstone
+2289	10	put emerald in green boot
+2290	24	drop first brick
+2291	27	unlock box with screwdriver
+2292	21	hit crulley with coffer
+2293	10	take clover
+2294	32	wave wand at underwear
+2295	35	drink potion
+2296	59	give celery to barb
+2297	9	x bed
+2298	36	enter shower
+2299	16	press channel
+2300	24	drop bench
+2301	65	x toner
+2302	10	take emerald
+2303	41	remove padlock
+2304	10	get candy
+2305	32	shake pack
+2306	15	hang it on hooks
+2307	9	x statue
+2308	29	clean dirty floor with moss
+2309	57	read warning note
+2310	49	sharpen knife on rock
+2311	21	knock knock
+2312	9	x technician
+2313	24	turn e
+2314	10	turn off electricity
+2315	65	x safe
+2316	9	x blank card
+2317	29	open william coffin
+2318	15	open matchbook
+2319	9	x stalk
+2320	16	press button
+2321	10	liskon self
+2322	15	open panel
+2323	10	shoot window
+2324	4	show term paper to frobar
+2325	57	read spotted scroll
+2326	66	fill teapot
+2327	65	x shelf
+2328	10	get silver chalice
+2329	10	take rice
+2330	10	put moss in nest
+2331	26	search ice
+2332	10	get ox
+2333	48	drop rusty knife
+2334	36	climb tree
+2335	10	hold breath
+2336	16	push switch
+2337	33	sw
+2338	10	blorple 9
+2339	10	click if-archive
+2340	35	drink coke
+2341	10	get husbandry
+2342	10	bozbar tortoise
+2343	10	nitfol frogs
+2344	10	put silver chalice in knapsack
+2345	57	learn jindak
+2346	10	ask skier about scroll
+2347	10	set left dial to 7
+2348	24	drop mask
+2349	10	dig in ground
+2350	65	examine walkie
+2351	65	x printer
+2352	42	throw sword into lake
+2353	24	drop paper
+2354	10	get sphere
+2355	10	get out of cask
+2356	10	get page
+2357	36	enter boat
+2358	15	open kit
+2359	10	get microphone
+2360	29	open it
+2361	26	search workbench
+2362	10	take knife
+2363	65	examine statues
+2364	10	take pebble
+2365	29	open book
+2366	44	remove watch
+2367	65	examine meteor
+2368	10	insert new battery in laser
+2369	48	drop bucket
+2370	10	get key, jewels and whistle
+2371	10	put packet in pan
+2372	10	ask officer about convention
+2373	10	put small plug in plotter
+2374	48	drop whistle
+2375	24	drop grater
+2376	10	ask allarah about jewel
+2377	42	throw club at aquarium
+2378	24	move floorboards
+2379	24	drop dummy
+2380	42	throw bottle at thing
+2381	10	take sceptre
+2382	9	x shelves
+2383	2	close lid
+2384	63	listen to girl
+2385	28	read back of yellow paper
+2386	5	rub it with crayon
+2387	10	ask gnome about prinout
+2388	51	show term paper to frobar
+2389	66	douse lamp
+2390	10	put garlic in cauldron
+2391	29	open tank
+2392	24	drop green
+2393	27	unlock chain with brooch
+2394	32	wave pole
+2395	65	x rods
+2396	9	examine corpse
+2397	10	take grenade
+2398	29	fill milkbottle with pondwater
+2399	9	x right screen
+2400	29	heat yellow paper over candles
+2401	10	ask coach for trophy
+2402	10	put ring, book in sack
+2403	10	ask belboz about cube
+2404	29	open guage
+2405	58	pull rods
+2406	24	turn roller on
+2407	65	x table
+2408	10	take statuette
+2409	63	look into relay
+2410	10	put token in slot
+2411	31	push filthy n
+2412	65	examine toadstool
+2413	27	unlock wardrobe with key
+2414	10	tip boot
+2415	44	remove fifth brick
+2416	10	get oil
+2417	10	take flag
+2418	48	raise short pole
+2419	10	untie chain
+2420	24	drop axe
+2421	10	take peridots
+2422	10	get out of long line
+2423	24	turn h
+2424	23	pour water on coin
+2425	17	kill figure with sword
+2426	15	open dresser
+2427	33	fore
+2428	24	move bench
+2429	65	examine memorial
+2430	28	read prayer
+2431	10	put white rod in pot
+2432	4	show spreadsheet
+2433	10	take dornberries
+2434	10	turn on light
+2435	10	get secateurs
+2436	2	open telescope
+2437	10	vaxum adventurer
+2438	6	talk to boy
+2439	65	examine boy
+2440	34	push play
+2441	10	take rune
+2442	10	take balsa beam
+2443	63	look in pit
+2444	6	talk to britney
+2445	10	gnusto ozmoo spell
+2446	37	move crank
+2447	29	open lid
+2448	10	take capsule
+2449	0	wear tourniquet
+2450	32	wave staff
+2451	16	push bed
+2452	9	examine sheets
+2453	42	throw rope north
+2454	16	press lever
+2455	63	look in rowboat
+2456	9	examine air tank
+2457	10	get gold locket
+2458	29	open vial
+2459	29	open crate with poker
+2460	10	hole, s
+2461	31	push fountain
+2462	33	jump out window
+2463	24	drop knife and crowbar
+2464	2	raise lever
+2465	33	go ledge
+2466	65	x river
+2467	9	examine ring
+2468	10	take icicle
+2469	9	x arcade
+2470	31	push pram south
+2471	9	examine splinter
+2472	15	open window with wrench
+2473	0	wear watch
+2474	63	look at paintings
+2475	10	get x3, x4, x5, x6
+2476	0	wear dress
+2477	10	put mirror 1 in caliper
+2478	28	read newspaper
+2479	10	put decaf in pot
+2480	32	shake branch
+2481	10	ask female about bar
+2482	12	pour liquid on torch
+2483	9	x forest
+2484	10	get vial, calendar and matchbook
+2485	48	drop dusty brick
+2486	33	go north
+2487	24	drop passbook
+2488	29	open safe
+2489	4	show hand to urchin
+2490	10	take light
+2491	10	dig
+2492	59	give key to alan
+2493	10	take cage
+2494	65	x cupboard
+2495	65	x coffee
+2496	10	dig in sand
+2497	0	wear gown
+2498	59	give bone to poodle
+2499	7	put balloon on pentagon
+2500	65	x kite
+2501	44	remove padlock
+2502	24	drop dusty brick
+2503	33	slide k
+2504	47	tear cloth
+2505	10	set compass to hawk
+2506	29	open drawer
+2507	65	examine bottle
+2508	51	show spreadsheet
+2509	3	pull railing
+2510	63	look in coat
+2511	15	open flask
+2512	9	x moss
+2513	4	show invitation to butler
+2514	65	x duct
+2515	9	x wall
+2516	14	say my name
+2517	10	rezrov cabinet
+2518	10	load it
+2519	10	ask hawker about candy
+2520	10	rezrov door
+2521	15	open sack
+2522	48	drop brown
+2523	29	close access panel
+2524	10	take celery
+2525	10	get emerald cluster
+2526	14	say rat to picasso
+2527	10	ask computestor about videophone
+2528	65	examine pedlar
+2529	9	x light
+2530	31	push button
+2531	10	get opal cluster
+2532	6	talk to stephanie
+2533	10	put all in thing
+2534	65	x city
+2535	57	read instructions
+2536	48	drop cap
+2537	66	cover opening with blanket
+2538	10	take bread from zipper
+2539	65	examine floor
+2540	48	drop zipper
+2541	2	open tank
+2542	63	look in pocket
+2543	10	get fire
+2544	7	put clover on coin
+2545	59	give gram to jim
+2546	58	pull flower
+2547	14	here kitty kitty
+2548	10	take box
+2549	24	drop sticker
+2550	42	throw it at rabbit
+2551	6	talk to reunite
+2552	65	examine teachers
+2553	28	read subway
+2554	29	close drawer
+2555	10	put all except book in zipper
+2556	29	open stone door
+2557	10	take dusty scroll
+2558	28	read ornate scroll
+2559	65	x ladder
+2560	12	pour liquid on slime
+2561	10	shoot pod with bazooka
+2562	15	open telescope
+2563	10	get coin
+2564	65	examine panel
+2565	1	tie rope to branch
+2566	59	give book to twin
+2567	9	examine lump
+2568	9	examine shroud
+2569	25	shazok storm
+2570	47	break cabinet
+2571	10	get epic poem
+2572	28	learn pulver
+2573	24	turn wheel right
+2574	7	put bronze key on keyring
+2575	51	show $500
+2576	34	push it south
+2577	3	pull second peg
+2578	32	wave handkerchief
+2579	31	push test button
+2580	24	drop upper card
+2581	15	open icebox
+2582	16	push filthy n
+2583	10	take green rod
+2584	67	play pool
+2585	24	turn ring
+2586	28	read writings
+2587	9	x machine
+2588	10	put red rod in hole
+2589	33	slide c
+2590	9	examine bottle
+2591	14	say carte
+2592	10	melbor myself
+2593	10	get stone
+2594	29	open trap door
+2595	10	get newspaper
+2596	65	examine switch
+2597	10	get spices
+2598	58	pull shaft
+2599	44	remove brick
+2600	16	push button
+2601	10	put all into thing
+2602	24	drop all except 10, book
+2603	29	fill canteen
+2604	10	put golden cluster in knapsack
+2605	1	tie bucket to rope
+2606	15	open handbag
+2607	48	drop rope
+2608	26	probe contacts
+2609	28	read white book
+2610	10	take rags
+2611	48	drop all except bottle
+2612	9	x panels
+2613	65	x copier
+2614	10	ask george about town
+2615	29	open wardrobe
+2616	2	raise beam
+2617	14	boo
+2618	26	search shape
+2619	29	open freezer
+2620	48	drop buoy
+2621	18	wake implementor
+2622	9	x cutout
+2623	14	say oil
+2624	15	open piano
+2625	10	take sword
+2626	10	get mask
+2627	0	wear snorkel
+2628	5	rub oil on mirror 1
+2629	10	get wand
+2630	22	touch mist
+2631	15	open washing machine
+2632	10	get meter
+2633	16	press blue
+2634	29	open satchel
+2635	7	put gum on ass
+2636	15	open cover
+2637	22	touch ne rune with rose
+2638	33	norbert
+2639	10	adjust videophone
+2640	10	get coat
+2641	9	x wheels
+2642	16	push boulders
+2643	10	get red sphere
+2644	9	x tree
+2645	24	drop bandage
+2646	10	spells
+2647	65	examine volt meter
+2648	14	longitude is 25
+2649	65	x watch
+2650	10	put wire in slot
+2651	10	get tobacco,knife,pipe
+2652	65	x murals
+2653	10	take vial
+2654	2	shake branch
+2655	57	read list
+2656	10	take gun
+2657	10	vaxum being
+2658	11	type 0628 on laptop
+2659	10	plant weed
+2660	27	unscrew gnomon
+2661	48	drop jacket
+2662	7	put ashes on coin
+2663	62	eat it
+2664	15	open bag
+2665	10	get robe
+2666	10	get out
+2667	10	get novel
+2668	50	pour water on net
+2669	36	enter cloud
+2670	10	put invite in copier
+2671	48	drop telescope
+2672	10	get finch
+2673	48	drop pile
+2674	10	put it in coffin
+2675	10	put scarab in small recess
+2676	26	search clothes
+2677	3	pull cloth
+2678	65	examine plant pots
+2679	10	set right dial to 4
+2680	2	open manhole with crowbar
+2681	10	get tools
+2682	22	pinch me
+2683	65	examine television
+2684	9	examine card
+2685	48	drop magnet
+2686	28	learn fweep
+2687	9	examine children
+2688	16	push tree north
+2689	16	push piano south
+2690	31	push second switch
+2691	63	look under floorboard
+2692	7	put star on pack
+2693	61	bite banana
+2694	48	put all down
+2695	10	look up index in history book
+2696	48	drop pickaxe
+2697	57	learn bozbar
+2698	16	push statue n
+2699	48	drop amulet
+2700	54	cut green with scalpel
+2701	24	move rail with bar
+2702	29	open jewelry box
+2703	34	push rod
+2704	51	show blue to trent
+2705	10	get film
+2706	10	take splinter
+2707	58	pull dial
+2708	65	x boat
+2709	10	mix cauldron with spoon
+2710	10	get ampoule
+2711	2	close hatch
+2712	41	remove brick
+2713	9	examine model
+2714	48	drop mine
+2715	10	get moss
+2716	9	x mukhtar
+2717	24	drop trap
+2718	47	tear it
+2719	2	open cover
+2720	24	drop garlic
+2721	2	open box with tool
+2722	29	open outer
+2723	65	x statue
+2724	10	ask bly about problem
+2725	65	examine coffin
+2726	28	learn throck
+2727	27	unlock car
+2728	24	move lighted portrait
+2729	4	show photograph to charles
+2730	59	give safe to mark
+2731	9	x compass
+2732	24	slide ticket under front
+2733	14	oracle, hello
+2734	2	open bottle
+2735	15	open lamp
+2736	20	strike returning
+2737	48	drop teapot, rose, candy and gold key
+2738	9	x pen
+2739	41	remove suit
+2740	48	drop yo-yo
+2741	65	examine bench
+2742	36	enter white door
+2743	10	put emerald cluster in knapsack
+2744	48	drop canteen and shuttle card
+2745	48	drop spoon
+2746	3	pull ropes
+2747	4	show mouse to elephant
+2748	9	examine cage
+2749	63	look at woods
+2750	10	shut up
+2751	65	x sequence stud
+2752	10	get keys
+2753	59	give gram to meghan
+2754	41	remove armour
+2755	48	drop kit
+2756	24	drop crown, stamp, zorkmid and ruby
+2757	10	take beam from eastern niche
+2758	10	get trowel
+2759	19	feed apple to horse
+2760	29	open throttle
+2761	65	examine urchin
+2762	59	give ekmek to andromeda
+2763	15	open towel
+2764	65	x stalk
+2765	65	x barrels
+2766	24	drop pager
+2767	10	get shimmering scroll
+2768	24	drop all but lens
+2769	36	climb ladder
+2770	10	get silver locket
+2771	57	read brittle scroll
+2772	59	give mirror 1 to michael
+2773	9	examine slot
+2774	24	drop gloves
+2775	9	x posse
+2776	10	take pincer
+2777	10	get ring
+2778	57	read blueprint
+2779	10	ask charles about chest
+2780	16	push bookcase
+2781	15	open canteen
+2782	10	take moldy book
+2783	24	drop hoard
+2784	34	push pram east
+2785	10	set fifth wheel to 3
+2786	24	drop jacket
+2787	9	x attendant
+2788	9	examine crabs
+2789	10	ask k9 about sequence
+2790	10	cast frotz on amulet
+2791	2	open cube
+2792	15	open crate
+2793	14	say alakazam
+2794	2	open metal cover
+2795	65	examine boats
+2796	55	lie down in front of bulldozer
+2797	9	x robot
+2798	9	examine reeds
+2799	9	x pipe
+2800	10	take foot
+2801	29	open shield
+2802	55	sit on chair
+2803	9	examine ash
+2804	29	open window with wrench
+2805	29	open handbag
+2806	22	touch control stud
+2807	9	x stranger
+2808	10	get crossbow
+2809	10	get wig
+2810	57	learn vaxum
+2811	10	malyon dragon
+2812	48	drop carpet
+2813	10	put embers in coat
+2814	65	x figure
+2815	48	drop bottle
+2816	63	look out window
+2817	9	x keys
+2818	10	put spell book in zipper
+2819	65	x bar
+2820	12	pour milk in cauldron
+2821	9	x painting
+2822	12	pour water on detective
+2823	24	drop spoon
+2824	9	x water
+2825	65	examine magpie
+2826	24	drop dagger
+2827	29	empty torch
+2828	24	turn dial to 4
+2829	10	ask belboz about figure
+2830	10	caskly chewed scroll
+2831	11	write 9 on cube
+2832	10	put trident in case
+2833	10	light salt with bug
+2834	16	push blue
+2835	21	hit box
+2836	10	take oak
+2837	9	x desks
+2838	10	get wheel
+2839	2	open canteen
+2840	5	rub locket
+2841	10	plant bean in vegetable plot
+2842	28	learn blorple
+2843	10	take red powder
+2844	30	stand on disc
+2845	29	open jar
+2846	10	take whistle
+2847	67	play people
+2848	33	up
+2849	10	get candle
+2850	24	drop bees
+2851	34	push dusty n
+2852	10	get note
+2853	42	throw brown at black
+2854	9	examine garlic
+2855	16	push table n
+2856	10	take toner
+2857	29	open pot
+2858	9	examine tracks
+2859	51	show card to chuckles
+2860	24	drop slip
+2861	10	take keys
+2862	32	wave wand at magic porridge pot
+2863	10	get miniaturization card
+2864	10	get in machine
+2865	10	get mace
+2866	48	drop ring
+2867	1	lock it with padlock
+2868	34	push coffin s
+2869	48	drop green rod
+2870	10	ask bum about anna
+2871	41	remove fifth brick
+2872	29	open brown bottle
+2873	34	push red button
+2874	10	take lump
+2875	2	shake pack
+2876	48	drop coin
+2877	10	take 7
+2878	67	play tape
+2879	10	put stick in pile
+2880	20	strike rod of bronze
+2881	9	x ladder
+2882	2	open copier
+2883	9	x card
+2884	29	close torch
+2885	36	climb beanstalk
+2886	7	put towel on your head
+2887	22	touch mirror
+2888	10	put it in cannon
+2889	10	ask female about male
+2890	38	slide ticket under front
+2891	10	get coke and carton
+2892	31	push green
+2893	10	turn on electricity
+2894	10	get nugget
+2895	10	get bracelet
+2896	9	x door
+2897	9	examine vegetable plot
+2898	6	talk to gnome about mogglev
+2899	10	get blueprint
+2900	2	open sack
+2901	65	examine sculpture
+2902	16	press down button
+2903	65	x grass
+2904	24	drop keys
+2905	9	x pair
+2906	48	drop microphone
+2907	59	give silver coin to oarsman
+2908	36	enter pram
+2909	34	push joystick west
+2910	10	blow whistle
+2911	10	take ruby
+2912	24	drop toupee
+2913	58	pull branch
+2914	48	drop peridots
+2915	10	get green
+2916	24	drop diamonds
+2917	16	push pet
+2918	65	x grille
+2919	10	take off dress
+2920	34	push piano north
+2921	65	x east mural
+2922	9	x barkeep
+2923	10	get fig
+2924	65	x horriblis
+2925	65	x swallow
+2926	12	pour wine in blue goblet
+2927	41	remove handcuffs
+2928	10	put dornberries in pot
+2929	10	take marker
+2930	10	put link in drawer
+2931	10	get garlic
+2932	63	look in cabinet
+2933	9	x project status stud
+2934	9	examine stump
+2935	2	open kit
+2936	10	put ruby in red boot
+2937	24	drop them
+2938	10	put it in thing
+2939	10	roustabout, get net
+2940	10	put ship in mounted bottle
+2941	9	x sketch
+2942	54	cut line with dagger
+2943	48	drop all except 10, book
+2944	24	drop small key
+2945	15	open packet
+2946	3	pull third peg
+2947	10	answer "a well"
+2948	10	get embers
+2949	9	x gauge
+2950	48	drop spade
+2951	4	show red to trent
+2952	24	drop bladder
+2953	24	drop plug
+2954	10	frotz temple
+2955	9	x whiteboard
+2956	36	enter door
+2957	9	x chandelier
+2958	65	x pan
+2959	10	put blue sphere in sapphire stand
+2960	10	ask woman about roadrunner
+2961	29	dragon, open door
+2962	2	open outer
+2963	10	take sweater
+2964	15	open throttle
+2965	9	x plants
+2966	10	put pan in water
+2967	3	pull antenna
+2968	9	examine statues
+2969	9	x blocks
+2970	15	open mailbox
+2971	9	x pile
+2972	10	bunyon
+2973	15	open stump
+2974	10	put brown rod in hole
+2975	10	take bottle
+2976	64	record scene
+2977	34	push red
+2978	24	turn it on
+2979	48	drop bar
+2980	10	get red card
+2981	29	open packet
+2982	16	push ball south
+2983	10	get etching
+2984	34	push pram e
+2985	58	pull quartz
+2986	10	get diamond
+2987	24	turn dial to 1
+2988	10	turn on torch
+2989	9	x metal thing
+2990	24	drop spade
+2991	10	get firework
+2992	16	push dusty s
+2993	26	search pocket
+2994	10	set compass to swallow
+2995	28	read parchment
+2996	44	withdraw $603
+2997	9	x wire
+2998	16	press start
+2999	9	x k9
+3000	31	push button 7
+3001	30	lean ladder against fence
+3002	24	drop key
+3003	65	examine woman
+3004	15	open lab door
+3005	10	put fig in urn
+3006	2	open office door
+3007	9	x porous wall
+3008	42	throw axe at dwarf
+3009	15	open quartz cover
+3010	10	get bricks
+3011	10	get bills
+3012	33	slide n
+3013	2	open clam with trident
+3014	65	x me
+3015	65	x paper
+3016	24	drop fifth brick
+3017	9	x magazines
+3018	42	throw stone at thing
+3019	24	drop pack
+3020	10	take umbrella
+3021	65	examine waterfall
+3022	48	drop mask
+3023	24	drop cork
+3024	9	x rock
+3025	10	get vial
+3026	10	look up wilhelm in album
+3027	10	take shield
+3028	7	put it on hand
+3029	24	drop food
+3030	54	cut rope with dagger
+3031	53	buy candy from hawker
+3032	16	press status stud
+3033	9	examine fence
+3034	10	get crow
+3035	10	take sand
+3036	65	examine notice
+3037	10	ask male about invitation
+3038	29	close pizza box
+3039	28	read topaz scratch with glass
+3040	2	close receptacle
+3041	66	fill it with water
+3042	9	x bar
+3043	33	go panel
+3044	2	open pot
+3045	10	yonk malyon spell
+3046	10	put torch in golden chalice
+3047	4	show can to pet
+3048	48	drop pack
+3049	2	open handbag
+3050	34	push dionysus southeast
+3051	2	open matchbox
+3052	10	put all in zipper except book
+3053	59	give coin to bartender
+3054	10	get rug
+3055	63	look at scene
+3056	10	put amulet in slot
+3057	9	x ball
+3058	24	drop tin
+3059	7	put it on henry's tomb
+3060	1	tie rope to k9
+3061	9	x box
+3062	67	play accordion
+3063	22	touch transmit stud
+3064	65	examine dresser
+3065	9	x trapdoor
+3066	10	take old book
+3067	29	open northern door
+3068	20	strike rod of fire
+3069	10	look up cholok in leshosh
+3070	24	drop necklace and dragon
+3071	10	get lamp, glass and ampoule
+3072	7	put ash on journal
+3073	44	remove suit
+3074	58	pull third peg
+3075	10	get vase
+3076	44	remove tank
+3077	10	take crunchy cereal
+3078	31	push statue
+3079	10	put match in toolkit
+3080	10	put heart in statue
+3081	21	hit bung with mace
+3082	9	examine cups
+3083	24	move crank
+3084	58	pull cord
+3085	16	push button 3
+3086	48	drop spices
+3087	12	pour liquid on body
+3088	42	throw bricks
+3089	9	examine searchlight
+3090	9	examine body
+3091	27	unlock cage
+3092	48	drop fish
+3093	10	put honey in cauldron
+3094	33	stage
+3095	10	take limb
+3096	29	open bird
+3097	10	turn off torch
+3098	37	move desk
+3099	65	examine hooks
+3100	10	put c battery in drill
+3101	2	open panel
+3102	16	push west wall
+3103	57	read wall
+3104	38	roll statue nw
+3105	10	rezrov box
+3106	29	close tray
+3107	10	gondar dragon
+3108	26	search bones
+3109	10	shout
+3110	24	drop fork
+3111	10	take trophy
+3112	2	open jar
+3113	10	urbzig mace
+3114	24	drop branch
+3115	2	open toolkit
+3116	9	x drain
+3117	10	take green bottle
+3118	2	open package
+3119	10	point rod of returning at me
+3120	26	search valuables
+3121	57	read it
+3122	65	examine wardrobe
+3123	9	x boot
+3124	54	cut flower
+3125	10	get coffer
+3126	10	drive to tower of london
+3127	29	open wooden door
+3128	32	sharpen knife on rock
+3129	0	wear clothes
+3130	29	close zipper
+3131	10	get rope
+3132	16	push piano east
+3133	69	cut coconut with axe
+3134	65	examine children
+3135	63	look shelf
+3136	10	mosaic, lagach
+3137	9	x vent
+3138	48	drop splinter
+3139	10	egdelp cabinet
+3140	63	look under stove
+3141	24	drop bible
+3142	29	open fur sack
+3143	7	put silver coin on left
+3144	48	drop wet suit
+3145	10	take newspaper
+3146	10	take pole
+3147	59	give form to female
+3148	10	swing rope
+3149	24	drop crampons
+3150	10	take butter
+3151	41	remove brick with crowbar
+3152	65	x chairs
+3153	9	x feather
+3154	10	get printer
+3155	24	drop pin
+3156	10	get wishbringer
+3157	9	examine crypt
+3158	24	roll statue ne
+3159	33	go through curtain
+3160	10	pick cuffs with needle
+3161	34	push pet
+3162	2	raise short pole
+3163	10	gnusto luncho
+3164	59	give encyclopedia to marion
+3165	10	get pot
+3166	12	pour water on plant
+3167	30	sit on large chair
+3168	48	drop lamp
+3169	10	take necklace
+3170	57	read crumpled scroll
+3171	10	ask tip about grid
+3172	9	x contact points
+3173	16	push wand
+3174	28	learn blorb
+3175	9	x device
+3176	10	take veil
+3177	10	take lemming
+3178	18	wake falcon with salts
+3179	59	give match to man
+3180	33	s
+3181	28	read pale scroll
+3182	24	drop stick
+3183	10	get penguin
+3184	29	open quartz cover
+3185	10	take 10
+3186	65	x barkeep
+3187	7	put bazooka on claw
+3188	57	read writings
+3189	9	examine lemming
+3190	63	look under lily pad
+3191	54	cut coconut with axe
+3192	26	search boots
+3193	65	x wire
+3194	2	open filing cabinet
+3195	10	get file
+3196	59	give envelope to woman
+3197	7	put lye on moss
+3198	2	open throttle
+3199	24	drop nugget
+3200	10	get scraps
+3201	59	give teddy to woman
+3202	50	pour liquid on body
+3203	16	push chandelier
+3204	9	x desk
+3205	65	examine arthur
+3206	10	ask detective about chelsea
+3207	9	examine fawkes
+3208	9	x coat
+3209	10	save image
+3210	34	push mountain
+3211	10	insert oar in oarlock
+3212	10	repeatedly "turn sceptre" until the coffin opens
+3213	10	look up ternalim in fresto
+3214	9	x watch
+3215	10	put trunk in case
+3216	9	x clover
+3217	10	click designers_manual
+3218	10	get jewelry
+3219	28	learn huncho
+3220	35	drink drink
+3221	10	dig sand
+3222	24	drop balsa wood beam
+3223	10	golmac me
+3224	7	put collar on dog
+3225	10	ask morgan about dragon
+3226	15	open clam with trident
+3227	10	take spade
+3228	10	put whistle in pot
+3229	10	i
+3230	65	x thing
+3231	10	look up heinrich in record
+3232	24	move desk
+3233	10	put painting in case
+3234	48	drop all but brain
+3235	10	put key in hole
+3236	10	swanko spirit
+3237	53	beetlebaum
+3238	48	drop stool and bucket
+3239	58	pull railing
+3240	24	drop mud
+3241	57	learn blorb
+3242	10	take bandage
+3243	63	look at frank
+3244	66	fill canteen
+3245	44	remove first brick
+3246	15	open blue bottle
+3247	27	unlock crypt
+3248	10	take off veil
+3249	48	lower ladder
+3250	10	get letter opener
+3251	65	x hawks
+3252	9	x opener
+3253	10	turn on slide projector
+3254	10	get lye
+3255	3	pull line
+3256	10	take gold key
+3257	9	x kettle
+3258	33	swim
+3259	2	open slot
+3260	59	give headdress to shaman
+3261	15	open grate
+3262	10	put ace in projector
+3263	22	touch orange
+3264	12	pour wine in green goblet
+3265	28	read spreadsheet
+3266	30	sit in medium-sized chair
+3267	24	drop statuette
+3268	65	examine bones
+3269	32	wave clover
+3270	34	push painting
+3271	68	shazok storm
+3272	10	blorple 1
+3273	10	turn on switch
+3274	10	get carton
+3275	9	examine blossoms
+3276	10	grab case
+3277	58	pull lever
+3278	10	turn on machine
+3279	15	open torch
+3280	10	put round stone into grating
+3281	9	x east mural
+3282	28	read sticker
+3283	51	show envelope to johnny
+3284	10	get cheese
+3285	51	show keys to michael
+3286	9	examine huge bed
+3287	10	lobal me
+3288	65	examine garlic
+3289	48	drop pouch
+3290	65	x keys
+3291	10	put berries in pan
+3292	65	x cubicles
+3293	2	open satchel
+3294	14	echo
+3295	16	push yellow
+3296	9	x outcrop
+3297	28	learn vaxum
+3298	10	get in bucket
+3299	36	enter access panel
+3300	12	pour water in silver chalice
+3301	65	examine shroud
+3302	10	put coal in machine
+3303	62	eat red goo
+3304	16	press white panel
+3305	29	open gate
+3306	29	open wallet
+3307	9	examine light
+3308	10	put carton in oven
+3309	24	drop lockpick
+3310	28	read gray scroll
+3311	10	get stamp
+3312	65	x pipe
+3313	10	get flowerpot
+3314	10	hole, w
+3315	24	drop door
+3316	24	drop padlock
+3317	63	look at ring
+3318	10	put book in cabinet
+3319	53	buy ticket
+3320	51	show pole to gnome
+3321	24	drop spices
+3322	9	x boots
+3323	28	read back of blue paper
+3324	10	put skink in cauldron
+3325	10	blorple 3
+3326	15	open secret panel
+3327	31	push statue n
+3328	10	take lantern
+3329	31	push boulders
+3330	10	get device
+3331	15	open car
+3332	15	open coffer
+3333	10	take burin
+3334	58	cheryl, pull rods
+3335	9	examine grimoire
+3336	2	close raincoat
+3337	24	drop umbrella
+3338	51	show egg to adventurer then east
+3339	16	push filthy s
+3340	9	examine lights
+3341	10	get awl
+3342	9	examine enclosure
+3343	24	drop key and brush
+3344	10	get crown
+3345	57	read frayed scroll
+3346	42	throw laser into void
+3347	48	drop toupee
+3348	9	x comb
+3349	10	fie
+3350	65	x moss
+3351	48	drop match
+3352	24	drop water
+3353	9	x kite
+3354	16	press buy
+3355	55	lie in tiny little bed
+3356	2	open toolshed
+3357	65	x sheet
+3358	29	open jeep
+3359	10	get pouch
+3360	47	break glass with hammer
+3361	10	ask gnome about page
+3362	10	get gigantic bowl
+3363	24	slide o
+3364	3	pull lining
+3365	10	get ladder
+3366	2	close tray
+3367	9	x swallow
+3368	0	wear robe
+3369	10	take damp scroll
+3370	24	drop dino
+3371	15	open pram
+3372	10	put glass in crack
+3373	15	open jewellery box
+3374	10	get tablets
+3375	65	x kettle
+3376	24	drop banana
+3377	41	remove ring
+3378	24	put all down
+3379	2	close torch
+3380	24	drop leaflet
+3381	59	give gloves to zombie
+3382	41	remove watch
+3383	3	pull tinsel
+3384	10	get envelope
+3385	16	push can against wall
+3386	9	examine waterfall
+3387	10	put bomb in sewer
+3388	9	x cooler
+3389	65	x blocks
+3390	27	unlock bronze door with key
+3391	10	take beads
+3392	65	examine radio
+3393	41	remove clothes
+3394	9	examine pedlar
+3395	10	take paper with pole
+3396	10	rimshaw, hypnotise me
+3397	33	climb beanstalk
+3398	10	get watch
+3399	24	turn wheel left
+3400	24	drop all
+3401	33	slide kitchen card through slot
+3402	48	drop garlic
+3403	9	x terrock
+3404	10	get medicine bottle
+3405	42	throw iron key at cat
+3406	65	x grenade
+3407	10	get plans
+3408	48	drop diamonds
+3409	63	look in bucket
+3410	9	x wheel
+3411	28	read leaflet
+3412	48	drop necklace and dragon
+3413	33	jump to beanstalk
+3414	10	take all from basis
+3415	10	call Maxx
+3416	24	turn dial
+3417	29	open forge
+3418	9	examine television
+3419	65	examine mouth
+3420	65	examine pram
+3421	10	get gown
+3422	10	point it at knight
+3423	9	examine silver coin
+3424	9	examine cauldron
+3425	10	krebf shredded scroll
+3426	10	put cube in cauldron
+3427	10	get bearskin rug
+3428	7	put brass key on keyring
+3429	10	ask for pigeon
+3430	39	rub oil on mirror 1
+3431	24	drop cardboardbox
+3432	65	examine cylinder
+3433	48	drop mirror
+3434	24	slide k
+3435	10	put clock in pot
+3436	21	knock on door 11
+3437	57	read white book
+3438	10	point it at lemniscus
+3439	10	get brown paper
+3440	48	drop gores
+3441	10	take vellum scroll
+3442	10	put sceptre in second socket
+3443	65	x box
+3444	48	drop lump
+3445	10	get it
+3446	10	get treasure
+3447	10	blast
+3448	0	wear them
+3449	39	erase line between m and v
+3450	10	get rod
+3451	7	put steel key on keyring
+3452	10	put laudanum in blue goblet
+3453	29	open raincoat
+3454	0	wear sweater
+3455	24	drop parchment
+3456	10	take bag
+3457	27	untie rope
+3458	41	remove hat
+3459	10	urbzig toy
+3460	28	read ruby scratch with glass
+3461	47	smash case with broom
+3462	29	open pram
+3463	65	x mural
+3464	9	x clingfilm
+3465	48	drop antimacassar
+3466	10	put jar in purse
+3467	27	unlock door with keys
+3468	9	examine slip
+3469	59	give pork to crocodile
+3470	12	pour water on powder
+3471	1	tie scarf to signpost
+3472	10	launch
+3473	4	show skull to bum
+3474	15	open pizza box
+3475	10	take paper bird
+3476	57	learn exex
+3477	10	put gnomon in hole
+3478	2	open lamp
+3479	10	get dead mouse
+3480	26	search picture of cat
+3481	10	gnusto throck
+3482	10	put sprig in cauldron
+3483	10	put hand in hive
+3484	48	put sword down
+3485	10	put smoke rod in pot
+3486	9	x form
+3487	29	open buoy
+3488	24	move moose
+3489	10	tinsot fragment
+3490	48	drop pole
+3491	48	drop vial
+3492	26	search crates
+3493	10	download video
+3494	9	x city
+3495	29	close it
+3496	48	drop coins
+3497	44	remove bandage
+3498	63	look into cage
+3499	44	remove coat
+3500	10	put rods in socket
+3501	4	show card to librarian
+3502	10	ask farmer about oyster
+3503	24	drop firework
+3504	9	x bay
+3505	22	touch table
+3506	65	x prep table
+3507	42	throw plank
+3508	16	press green button
+3509	10	set fourth wheel to 9
+3510	10	look up verlac
+3511	24	turn valve
+3512	9	examine output
+3513	24	drop microphone
+3514	34	push second switch
+3515	65	examine stump
+3516	48	drop photo
+3517	48	drop wire
+3518	14	eddie, hello
+3519	2	open purple book
+3520	2	fold paper
+3521	2	open door
+3522	46	chop ice with axe
+3523	24	drop coins
+3524	23	pour water on beanstalk
+3525	57	read writing
+3526	10	inventory
+3527	57	read faded scroll
+3528	10	put it in opening
+3529	22	touch panel
+3530	51	show ring to michael
+3531	10	get flashlight
+3532	34	push green
+3533	2	open historical
+3534	29	close shield
+3535	3	pull slide
+3536	65	examine enclosure
+3537	9	examine carvings
+3538	10	yomin ogre
+3539	29	heat blue paper over candles
+3540	51	show it to holmes
+3541	10	put it in hole
+3542	65	x bats
+3543	65	examine dial
+3544	10	light match
+3545	9	examine dusty book
+3546	65	examine it
+3547	2	open window with wrench
+3548	10	shoot rope with crossbow
+3549	10	get black scroll
+3550	33	jump to roof
+3551	10	get fan
+3552	10	get water
+3553	2	open grate
+3554	57	learn swanko
+3555	62	eat green goo
+3556	16	push right button
+3557	65	x tables
+3558	10	take keys with pole
+3559	15	stand in short line
+3560	10	gnusto fiznav
+3561	31	push poseidon northeast
+3562	10	light newspaper with pipe
+3563	10	fiznav boat
+3564	9	x stairs
+3565	65	examine dining table
+3566	32	wave sceptre
+3567	24	turn it right 5
+3568	28	learn fiznav
+3569	10	k9, shoot door
+3570	65	note stools
+3571	2	open container
+3572	48	drop gloves
+3573	65	x clover
+3574	0	wear armour
+3575	10	get golden cluster
+3576	33	right
+3577	48	drop nugget
+3578	15	open jeep
+3579	10	put rag in pot
+3580	10	get stick
+3581	38	slide e
+3582	10	light coal
+3583	0	wear mask
+3584	14	say even
+3585	48	lower short pole
+3586	65	x pair
+3587	2	open journal
+3588	10	click ftp
+3589	57	read green
+3590	0	wear boots
+3591	10	put silver rod in top
+3592	9	x papers
+3593	36	enter dumb waiter
+3594	0	wear balm
+3595	10	ask george about beetlebaum
+3596	24	turn it left 7
+3597	24	drop newspaper
+3598	10	get collar
+3599	10	put entrails in body
+3600	18	wake homer
+3601	48	drop dodo
+3602	10	get skis
+3603	10	cock crossbow
+3604	10	get rod of ice
+3605	10	get silver
+3606	10	put x10 in second
+3607	58	pull lining
+3608	29	close tapestry
+3609	10	light gas
+3610	24	drop chair
+3611	15	open white door
+3612	65	examine satellite
+3613	63	look in zipper
+3614	10	get rapier
+3615	59	give gram to silas
+3616	48	drop pigeon
+3617	59	give fish to grue
+3618	10	get whistle
+3619	53	order food
+3620	24	drop magazine
+3621	10	put ladder across rift
+3622	48	drop net
+3623	68	shake safe
+3624	24	drop matchbox
+3625	59	give blue goblet to butler
+3626	29	open orange vial
+3627	65	x magnetite
+3628	10	take hoard
+3629	48	drop dummy
+3630	31	push pine panel
+3631	38	slide n
+3632	28	read wall
+3633	63	look in pram
+3634	53	catch mouse with bucket
+3635	10	take erbium
+3636	33	east
+3637	41	remove old battery
+3638	10	take red flag
+3639	24	drop mousetrap
+3640	10	put book in large recess
+3641	63	look in keg
+3642	63	look in overalls
+3643	10	put x1 in first
+3644	10	get real mirror
+3645	3	pull dial
+3646	65	x studs
+3647	65	x coin
+3648	7	put pack on gum
+3649	57	learn malyon
+3650	51	show card to librarian
+3651	48	drop key and brush
+3652	10	take envelope
+3653	51	show skull to bum
+3654	2	open torch
+3655	15	open box
+3656	44	remove mask
+3657	16	push moldy s
+3658	10	get eight of wands
+3659	65	x footprints
+3660	29	open historical
+3661	24	drop sword
+3662	10	put gold in toolkit
+3663	51	show note to charles
+3664	10	get axe
+3665	29	close breaker
+3666	34	push south wall
+3667	65	x water
+3668	2	open pacquet of paper
+3669	59	give umbrella to girl
+3670	29	close outer door
+3671	9	x sydney
+3672	24	drop antimacassar
+3673	10	get out of bed
+3674	48	drop flippers
+3675	29	close circuit breaker
+3676	48	drop lockpick
+3677	15	open drawer
+3678	16	push dispenser button
+3679	65	x farm
+3680	57	read memo
+3681	34	push button 9
+3682	42	throw stone at creature
+3683	9	x bones
+3684	10	take x1, x10
+3685	10	caskly moldy book
+3686	32	wave stick
+3687	28	read crypt
+3688	9	examine wight
+3689	24	drop kit
+3690	65	x boot
+3691	65	examine silver coin
+3692	26	search thicket
+3693	10	put ebony in southern niche
+3694	22	kiss frog
+3695	10	put pot in case
+3696	36	climb out of pipe
+3697	48	drop small key
+3698	2	open hatch with screwdriver
+3699	53	1
+3700	44	remove clothes
+3701	54	cut line with knife
+3702	17	kill dragon
+3703	37	move bench
+3704	41	remove hood
+3705	24	slide n
+3706	48	drop radio
+3707	47	smash window with coffer
+3708	10	put match in raincoat
+3709	69	roll statue sw
+3710	10	get in web
+3711	10	insult vincent
+3712	10	gnusto ledak
+3713	10	get star
+3714	49	shake branch
+3715	16	push pram east
+3716	9	x lever
+3717	10	get alpha
+3718	66	bandage arm with rags
+3719	9	x bowl
+3720	57	read red scroll
+3721	10	get gem
+3722	24	drop tea
+3723	10	get green card
+3724	28	read torn square
+3725	10	get teleportation card and battery
+3726	26	search sludge
+3727	34	push ass
+3728	10	get corn
+3729	10	get long steel key
+3730	2	open wardrobe
+3731	29	open wrapper
+3732	28	read ledger
+3733	2	open mailbox
+3734	65	examine ship
+3735	48	drop stand
+3736	65	x handle
+3737	33	fly kite
+3738	65	x thad
+3739	65	x form
+3740	10	take x1, x2, x7, x12
+3741	21	strike rod of husbandry
+3742	28	read memo
+3743	9	x soft things
+3744	29	close slot
+3745	40	follow mouse
+3746	15	open trap door
+3747	33	slide a
+3748	7	put raisins on celery
+3749	59	give pass to reunite
+3750	9	x control
+3751	31	push joystick west
+3752	57	read spreadsheet
+3753	10	take pen
+3754	24	slide lower card through slot
+3755	10	drive to covent garden
+3756	48	drop keys
+3757	28	learn feeyuk
+3758	55	sit
+3759	10	ask librarian for book
+3760	24	drop knapsack
+3761	24	drop room key
+3762	26	search stand
+3763	48	drop screwdriver
+3764	48	drop parchment
+3765	29	open tube
+3766	65	x block
+3767	53	city
+3768	10	get out of basket
+3769	28	read moldy book
+3770	59	give sushi to samurai
+3771	24	drop pouch
+3772	10	gnusto shazok
+3773	45	smell
+3774	24	drop bottle
+3775	48	drop head
+3776	23	pour liquid on slime
+3777	65	x stairs
+3778	41	remove shim
+3779	65	examine dynamite
+3780	2	open curtains
+3781	48	drop anchor
+3782	7	put handcuffs on rods
+3783	65	x gnome
+3784	21	knock on window
+3785	16	press 4
+3786	10	dig plot with shovel
+3787	16	press ignition
+3788	10	get scalpel
+3789	48	drop calendar
+3790	2	open dumpster
+3791	10	take 12
+3792	65	x viewscreen
+3793	63	look at list
+3794	9	x white pillar
+3795	58	pull hose
+3796	65	x forest
+3797	16	press red button
+3798	9	examine volt meter
+3799	48	drop flashlight
+3800	10	get bottle
+3801	10	get rods from coffin
+3802	10	get balm
+3803	39	rub bug
+3804	0	wear veil
+3805	10	plug in television
+3806	48	drop brass key
+3807	10	get puzzle box and flute
+3808	10	reach in zipper
+3809	57	read scrawled
+3810	17	kill sofia with opener
+3811	36	climb down chimney
+3812	28	read features in newspaper
+3813	36	enter cab
+3814	2	open fridge
+3815	9	x copier
+3816	2	close zipper
+3817	10	dial 576-3190
+3818	11	write 5 on cube
+3819	10	light lantern
+3820	48	drop volcano in water
+3821	10	set center dial to 3
+3822	28	read culture
+3823	10	get invitation
+3824	10	get brass key
+3825	48	drop pin
+3826	10	take egg from pot
+3827	2	open jewelry box
+3828	10	put torch in hand
+3829	10	set thermostat to warm
+3830	10	ask wiggins to get garnet
+3831	29	open lid with spade
+3832	10	put card in pocket
+3833	10	get yellow card
+3834	24	drop box
+3835	28	read old book
+3836	16	push boulder
+3837	24	drop cap
+3838	24	roll statue sw
+3839	63	look under stairs
+3840	48	drop walkie
+3841	31	push tree north
+3842	69	cut jacket with glass
+3843	59	give note to mr crisp
+3844	14	hello sailor
+3845	48	drop vase
+3846	10	gnusto caskly
+3847	28	learn egdelp
+3848	10	frotz book
+3849	10	get spectacles
+3850	65	x patch
+3851	41	remove bandage
+3852	10	reply
+3853	10	get beef
+3854	59	give gold key, portrait and bills to demon
+3855	10	get orange vial
+3856	65	examine cauldron
+3857	7	put peanut butter on celery
+3858	10	get bread
+3859	19	feed turnip to daisy
+3860	9	x natives
+3861	29	open pizza box
+3862	9	examine hole
+3863	9	x temple
+3864	2	open portrait
+3865	10	zemdor blue box
+3866	10	get broom
+3867	28	read it
+3868	48	drop them
+3869	9	x gate
+3870	9	examine pockets
+3871	10	put scalpel in toolkit
+3872	10	light pipe with match
+3873	57	read business card
+3874	15	open vial
+3875	10	take dino
+3876	10	ask gnome for ball
+3877	59	give magazine to madman
+3878	63	l
+3879	9	x computers
+3880	63	look at furnace
+3881	57	learn bekdab
+3882	9	x counter
+3883	10	look up trophy in history book
+3884	9	examine dagger
+3885	28	read torn
+3886	48	drop it and pliers
+3887	4	show box to guard
+3888	9	x body
+3889	65	examine key
+3890	10	ask hacker for master key
+3891	10	take handkerchief
+3892	16	push test button
+3893	10	get pickaxe
+3894	15	open tarot box
+3895	10	plug toaster into wall
+3896	9	x barrels
+3897	24	turn ring to fourth symbol
+3898	10	attack thief with nasty knife
+3899	24	move wardrobe
+3900	10	k9, shoot boulder
+3901	57	read culture
+3902	10	put stick in hole
+3903	63	listen to conversation
+3904	24	slide teleportation card through slot
+3905	15	open toolkit
+3906	10	take sugar from pot
+3907	0	wear suit
+3908	28	read emerald scratch with glass
+3909	0	wear sandals
+3910	10	get gloves and crowbar
+3911	24	drop pencil
+3912	65	x computers
+3913	66	fill bottle
+3914	9	x officer
+3915	9	examine keg
+3916	24	drop dusty book
+3917	10	get coins
+3918	65	x jail
+3919	28	learn exex
+3920	10	get golden chalice
+3921	36	climb on table
+3922	29	open copier
+3923	55	sit in medium-sized chair
+3924	65	examine tomb
+3925	65	x tree
+3926	33	jump onto riser
+3927	29	open trapdoor
+3928	9	x dent
+3929	20	strike rod of husbandry
+3930	11	write 7 on cube
+3931	10	oozelumny
+3932	24	drop torch
+3933	10	put card in slot
+3934	16	press sequence stud
+3935	2	close trapdoor
+3936	29	close matchbook
+3937	51	show red to trent
+3938	15	open bio-lock door
+3939	63	listen to dial
+3940	9	examine blue carpet
+3941	26	search pizza
+3942	31	push table n
+3943	65	x bowl
+3944	9	examine dial
+3945	65	examine door
+3946	65	examine fusebox
+3947	10	take whip
+3948	51	show file to district attorney
+3949	36	enter coffin
+3950	7	put towel on valve
+3951	51	show ruby to pigeon
+3952	48	drop chair
+3953	10	yes
+3954	7	put sweater on table
+3955	15	open package
+3956	16	push mountain
+3957	15	open grating
+3958	9	examine boots
+3959	10	ask him about nelson
+3960	47	break seal with pickaxe
+3961	34	push bell
+3962	10	put ebony in northern niche
+3963	24	drop portrait and bills
+3964	10	swordfish
+3965	24	turn dial left
+3966	8	pray
+3967	29	open manhole with crowbar
+3968	10	get shredded scroll
+3969	59	give thumb to robot
+3970	15	open cauldron
+3971	29	open lab door
+3972	59	give pass to sleaze
+3973	10	get parcel from cupboard
+3974	65	x torn clothes
+3975	2	open case
+3976	10	jindak
+3977	65	x pack
+3978	34	push coffin w
+3979	58	pull ropes
+3980	15	open box with tool
+3981	10	put red sphere in ruby stand
+3982	10	turn drill off
+3983	10	get passbook and room key
+3984	7	put pouch under pipe
+3985	16	press switch b
+3986	24	turn dial to 47
+3987	10	take gold box
+3988	27	untie wire
+3989	48	drop book
+3990	10	help midget
+3991	16	push autopilot button
+3992	27	unlock northern door with flat key
+3993	27	unlock padlock with key
+3994	24	drop teapot
+3995	10	plug in toaster
+3996	2	open air supply system with tool
+3997	65	x column
+3998	10	ask delbin about minirva
+3999	26	search refuse
+4000	24	turn crank
+4001	24	drop plotter
+4002	24	drop all but pincer
+4003	33	climb out of pipe
+4004	2	open cupboard
+4005	9	examine toadstool
+4006	34	push coffin n
+4007	10	get mirror 1
+4008	10	get padlock
+4009	10	get featureless rod
+4010	12	pour hot porridge in gigantic bowl
+4011	55	sit in large chair
+4012	57	read parchment
+4013	10	get matchbook
+4014	29	open cube
+4015	10	get stethoscope
+4016	10	get sharp pick
+4017	9	examine screen
+4018	57	read poetry
+4019	65	x slot
+4020	35	drink tea
+4021	10	turn on magnet
+4022	65	x k9
+4023	24	drop coin
+4024	65	examine ball
+4025	65	x powerup stud
+4026	65	x bladder
+4027	57	read letter to woman
+4028	48	drop pot
+4029	10	take burin from zipper
+4030	65	x machine
+4031	28	read letter
+4032	9	x viewscreen
+4033	9	examine switch
+4034	9	examine mouth
+4035	48	drop pearl
+4036	16	push yellow button
+4037	28	read hieroglyphs
+4038	65	examine red statuette
+4039	59	give drink to frank
+4040	10	get glider
+4041	29	close cold box
+4042	39	rub it with crayon
+4043	24	drop calendar
+4044	10	take sticker
+4045	68	shake branch
+4046	10	get kit
+4047	24	drop gigantic bowl
+4048	10	take spell book from zipper
+4049	10	put line in socket
+4050	24	drop camera
+4051	26	search wreck
+4052	10	take carpet
+4053	15	open furnace
+4054	28	learn ledak
+4055	10	get c battery
+4056	10	take no tea
+4057	10	get candy and gold key
+4058	10	put it in projector
+4059	29	close link
+4060	44	remove frock
+4061	65	x sign
+4062	29	fill jug
+4063	65	examine mousetrap
+4064	65	x hand
+4065	10	get clothes
+4066	9	x electronics
+4067	59	give shilling to wiggins
+4068	65	x dent
+4069	10	get hook
+4070	34	push test button
+4071	7	put kettle on stove
+4072	10	get spoon
+4073	10	get caliper
+4074	65	x respirator
+4075	53	seat
+4076	51	show star crystal to trent
+4077	10	ask alan about novel
+4078	2	open access panel
+4079	65	x knob
+4080	48	drop shawm
+4081	33	northwest
+4082	5	rub bug
+4083	9	x man
+4084	10	take rod
+4085	33	in
+4086	15	open cell door
+4087	10	get wrought iron key
+4088	11	write 3 on cube
+4089	65	x feather
+4090	55	sit in tiny little chair
+4091	10	get knife
+4092	29	burn pole with torch
+4093	38	slide l
+4094	48	drop mousetrap
+4095	10	get gold leaf scroll
+4096	24	drop meter
+4097	10	wedge door with cheese
+4098	65	examine watch
+4099	16	press red
+4100	63	look under sill
+4101	10	get drawing paper
+4102	9	examine tiny metal
+4103	4	show keepsake to knight
+4104	15	open pacquet of paper
+4105	63	l up terrock in leshosh
+4106	9	x toner
+4107	65	examine mesa
+4108	10	get off chair
+4109	65	examine sheets
+4110	65	x opener
+4111	65	x invite
+4112	10	put star crystal in dagger
+4113	10	get rod of sacrifice
+4114	10	light candle with fire
+4115	10	get token
+4116	9	examine bench
+4117	10	get all cards
+4118	10	get out of bucket
+4119	10	huncho vase
+4120	65	x scanner
+4121	9	examine electrodes
+4122	10	take coal
+4123	47	break windows
+4124	10	take off gown
+4125	66	fill bucket with water
+4126	10	take scrawled
+4127	4	show earth crystal to trent
+4128	10	take door
+4129	10	put stone in fire
+4130	65	examine dish
+4131	29	open cauldron
+4132	10	answer phone
+4133	23	pour wax on floor
+4134	2	open white door
+4135	24	drop rug
+4136	10	put paper in pocket
+4137	48	drop all except bread
+4138	10	no
+4139	24	drop all except bread
+4140	65	x hermit
+4141	1	tie rope to handle
+4142	65	examine symbols
+4143	29	open carton
+4144	2	close cage
+4145	10	starboard
+4146	10	ask governor about key
+4147	34	push button 1
+4148	65	x generator access
+4149	65	x papers
+4150	9	x switch
+4151	63	look at statue through telescope
+4152	9	examine tomb
+4153	15	open cube
+4154	10	get spindle
+4155	12	pour water on coin
+4156	10	put amber in socket
+4157	10	gnusto tinsot
+4158	10	put screwdriver in basket
+4159	9	x windy tunnel
+4160	10	insert orange card in slot
+4161	10	get bones with chopsticks
+4162	31	push mountain
+4163	10	sword
+4164	65	x well
+4165	4	show ring to michael
+4166	50	pour wine in blue goblet
+4167	15	open lab uniform
+4168	63	listen to wall
+4169	10	offer 300
+4170	10	take seven coins from basis
+4171	29	close valve
+4172	10	get bear
+4173	57	read crumpled
+4174	2	open stone door
+4175	10	ask man about eranti
+4176	2	open icebox
+4177	10	get poetry
+4178	10	point to coconut
+4179	10	take lens
+4180	10	put gold in plate
+4181	34	push dispenser button
+4182	10	take hairpin
+4183	14	say kaluze
+4184	22	touch generator
+4185	2	open blue bottle
+4186	59	give brain to timelord
+4187	9	x printouts
+4188	10	get shovel
+4189	31	push red button
+4190	29	open jewellery box
+4191	57	read ornate scroll
+4192	57	read damp scroll
+4193	65	examine gnomon
+4194	54	cut jacket with glass
+4195	10	light firewood with match
+4196	10	steer towards rocky spire
+4197	15	open historical
+4198	10	ask gnome about mother
+4199	36	enter dory
+4200	10	call wpdl
+4201	10	click on paper
+4202	28	read scroll
+4203	27	unlock chest
+4204	28	read list
+4205	48	drop suit
+4206	11	write mace on featureless
+4207	10	get flint
+4208	65	x soft things
+4209	38	slide i
+4210	29	open matchbook
+4211	54	cut cable
+4212	48	drop multi
+4213	38	slide lower card through slot
+4214	29	candles
+4215	65	examine air tank
+4216	10	get popcorn
+4217	2	adventurer, open door
+4218	24	drop thing
+4219	16	press black
+4220	10	take butter from pot
+4221	10	put brown sphere in pot
+4222	57	read missive
+4223	10	shoot mushroom with crossbow
+4224	28	learn melbor
+4225	10	point it at thorns
+4226	33	south
+4227	24	drop pan
+4228	4	show star crystal to trent
+4229	2	open envelope
+4230	65	x lye
+4231	29	fill it with water
+4232	69	cut blue tassel
+4233	39	squeeze weed killer bottle
+4234	10	screw relay into space
+4235	34	push chandelier
+4236	7	put it on yellowed paper
+4237	7	put flathead on circle
+4238	48	drop can
+4239	10	attack dragon with sword
+4240	9	x gaping
+4241	0	wear goggles
+4242	68	shake pack
+4243	10	take kettle
+4244	48	drop room key
+4245	65	x carpark
+4246	10	put coins in fur sack
+4247	16	press blue button
+4248	44	remove gloves
+4249	10	put pass in slot
+4250	9	examine bones
+4251	65	examine slipper
+4252	24	drop wrench
+4253	65	examine boulders
+4254	10	take ball
+4255	2	open dish washer
+4256	58	pull second peg
+4257	28	learn malyon
+4258	69	pry sixth rib with sword
+4259	34	push ball southwest
+4260	9	examine dresser
+4261	10	get air tank
+4262	48	drop upper card
+4263	10	look up yetzuiz in fresto
+4264	10	put dynamite in toaster
+4265	10	get glass
+4266	33	climb on stage
+4267	10	take thyme
+4268	28	read card
+4269	10	take it
+4270	48	drop passbook
+4271	24	drop mine
+4272	24	drop myrrh
+4273	60	z
+4274	10	take gray rod
+4275	10	take selfie
+4276	10	put strength in right socket
+4277	10	ask barman about job
+4278	54	clip monster
+4279	9	x jail
+4280	33	se
+4281	31	push right button
+4282	29	open tray
+4283	69	cut cable
+4284	48	drop stick
+4285	10	surf the net
+4286	41	remove jacket
+4287	59	give card to woman
+4288	9	examine bird
+4289	28	read brittle scroll
+4290	48	drop tin
+4291	29	open dumpster
+4292	65	x button
+4293	24	drop shim
+4294	65	x carvings
+4295	29	fill bucket with water
+4296	9	examine flytrap
+4297	10	ask gnome about fire
+4298	27	unlock lock with lockpick
+4299	10	put splinter into crevice
+4300	10	put sheet in tray
+4301	10	get all from closet
+4302	10	dig rock with axe
+4303	10	zemdor ale
+4304	10	take parka
+4305	24	turn wireless on
+4306	0	wear breeches
+4307	7	put feather on left
+4308	65	examine plans
+4309	1	tie chain to rod
+4310	29	fill battery
+4311	48	drop cracked
+4312	2	open towel
+4313	40	follow gnome
+4314	9	examine boats
+4315	10	put ball in machine
+4316	44	remove glasses
+4317	9	x self
+4318	10	put cube in pot
+4319	10	get all from drawer
+4320	9	examine diagram
+4321	9	x bladder
+4322	10	take shawm
+4323	10	take pass
+4324	9	x footprints
+4325	2	open buoy
+4326	48	drop cork
+4327	2	open stump
+4328	14	say ptolemy
+4329	29	open tarot box
+4330	48	drop emerald
+4331	48	drop matchbox
+4332	10	get sapphire
+4333	48	drop pencil
+4334	28	read news in newspaper
+4335	59	give pincer to marvin
+4336	10	take egg
+4337	31	push joystick east
+4338	24	drop hammer
+4339	50	pour vodka in cola
+4340	10	dungeon master, turn dial to 8 and press button
+4341	27	unlock toolshed with small key
+4342	10	put butter in pot
+4343	24	drop zipper
+4344	15	open carton
+4345	33	e
+4346	24	drop lamp
+4347	2	open raincoat
+4348	9	x cupboard
+4349	10	gnusto zifmia spell
+4350	24	drop knife
+4351	28	read instructions
+4352	2	close breaker
+4353	10	ask hacker about keys
+4354	3	pull shaft
+4355	57	learn meef, meef and swanzo
+4356	7	put gown on hook
+4357	10	take chelsea
+4358	10	trillian, shoot rifles
+4359	10	get scarf
+4360	10	ask trent about elizabeth
+4361	27	unlock cabinet with key
+4362	57	read faded
+4363	10	take watch
+4364	9	x duct
+4365	10	ask man about hammer
+4366	15	open gate
+4367	21	hit dragon with sword
+4368	65	x dust
+4369	65	x note
+4370	59	give toy to sydney
+4371	16	push ball southwest
+4372	10	take water
+4373	10	put egg in pan
+4374	9	x thing
+4375	10	adjust aerial
+4376	10	put screwdriver in toolkit
+4377	10	put emerald in case
+4378	9	x scanner
+4379	10	take stick
+4380	10	take toad
+4381	10	blorple 11
+4382	33	slide ticket under front
+4383	10	put ruby cluster in knapsack
+4384	10	get bean pole
+4385	29	unfold leaf
+4386	23	pour water on plant
+4387	12	pour cold porridge in gigantic bowl
+4388	24	drop cup
+4389	10	meef vines
+4390	10	put all in crate
+4391	10	insert emerald cluster in third hole
+4392	33	southeast
+4393	10	gnusto liskon
+4394	10	get sack
+4395	10	put sceptre in case
+4396	10	take skink
+4397	65	x rock
+4398	31	push chandelier
+4399	23	pour vodka in cola
+4400	10	ask k9 about control
+4401	10	put sack in tesseract
+4402	10	take shovel
+4403	44	remove brick with crowbar
+4404	10	set constellations to horse
+4405	10	ask woman about ruby
+4406	10	get package
+4407	4	show warranty
+4408	30	stand on bench
+4409	27	unlock door with wrought iron key
+4410	29	open curtains
+4411	42	throw box at outcropping
+4412	34	push yellow button
+4413	33	slide miniaturization card through slot
+4414	65	x librarian
+4415	59	give manual
+4416	65	x mine
+4417	10	take dodo
+4418	14	say "float"
+4419	42	throw silver at white
+4420	40	k9, follow me
+4421	59	give form to barman
+4422	10	take wood
+4423	65	x status display
+4424	10	put gum in cauldron
+4425	10	put coin in interest
+4426	9	x bubble
+4427	55	sit down
+4428	16	push play
+4429	51	show green to trent
+4430	29	open filing cabinet
+4431	27	unlock chain with keys
+4432	65	x dusty brick
+4433	10	yomin tortoise
+4434	9	x forcefield stud
+4435	65	x right screen
+4436	65	x writing
+4437	10	take green sphere
+4438	62	eat berries
+4439	65	examine wight
+4440	40	follow ford
+4441	28	learn girgol
+4442	22	touch waterfall
+4443	65	examine switch b
+4444	2	open crate
+4445	10	strike match
+4446	59	give silver to barker
+4447	10	get fluff
+4448	9	x top shelf
+4449	10	put pliers into thing
+4450	10	insert red card in slot
+4451	24	drop shawm
+4452	9	x patch
+4453	10	get pork
+4454	10	take coin from basis
+4455	14	say boo
+4456	9	examine remote control
+4457	65	x dispenser
+4458	38	slide kitchen card through slot
+4459	2	open car
+4460	64	record
+4461	10	get torn square
+4462	27	unhook chain
+4463	24	drop stethoscope
+4464	36	climb idol
+4465	16	press 0
+4466	10	take book
+4467	26	search tray
+4468	28	learn frotz
+4469	9	examine woman
+4470	10	get all from coffin
+4471	10	put string in brick
+4472	9	x flowers
+4473	14	exodus
+4474	65	x vent
+4475	9	x handle
+4476	59	give gram to queenie
+4477	63	look at controls
+4478	29	clean skeleton with moss
+4479	31	push coffin s
+4480	48	guards, drop rifles
+4481	10	ask george about bag
+4482	10	reach into hole
+4483	15	open navy-blue box
+4484	65	x compass
+4485	50	pour water on detective
+4486	15	open journal
+4487	10	put shiny in pot
+4488	10	get paddle
+4489	9	examine bridge
+4490	10	get oar
+4491	57	read journal
+4492	48	drop zm$100000
+4493	33	ne
+4494	16	press bottom
+4495	9	examine winch
+4496	7	put towel over drain
+4497	28	learn bekdab
+4498	65	x frank
+4499	9	x block
+4500	10	get gloves
+4501	34	push piano east
+4502	65	examine wand
+4503	31	push locker east
+4504	15	knight, open flagstone
+4505	65	examine barrels
+4506	9	x sequence stud
+4507	29	knight, open flagstone
+4508	59	give hairpin to mary
+4509	57	learn feeyuk
+4510	41	remove goggles
+4511	33	climb scarf
+4512	10	get in floor
+4513	15	open it
+4514	7	put mail on satchel
+4515	9	examine chair
+4516	10	point at vodka
+4517	57	read grave
+4518	24	drop bar
+4519	2	close it
+4520	10	get acorns
+4521	57	read notes
+4522	65	examine bubble
+4523	9	x rags
+4524	10	get black
+4525	65	examine bandage
+4526	49	shake safe
+4527	28	read cracked
+4528	10	get horn
+4529	10	get buoy
+4530	10	take toupee
+4531	57	read features in newspaper
+4532	32	shazok storm
+4533	34	push button 7
+4534	50	pour water in silver chalice
+4535	65	x door
+4536	10	take all
+4537	51	show brick to pig
+4538	22	touch nw rune with rose
+4539	62	eat fruit
+4540	24	drop buoy
+4541	3	pull branch
+4542	65	examine packet
+4543	65	x attendant
+4544	29	open torch
+4545	9	x insect
+4546	10	download image
+4547	38	slide upper card through slot
+4548	10	get
+4549	10	put volcano in pot
+4550	31	push statue w
+4551	16	push coffin n
+4552	9	x probe
+4553	63	look for pig
+4554	10	fix voltage regulator
+4555	29	open curtain
+4556	25	fold paper
+4557	10	take wire
+4558	10	take hammer
+4559	9	examine white  statuette
+4560	10	put gold in unit
+4561	57	read pale scroll
+4562	33	slide o
+4563	65	examine herbs
+4564	59	give violin, necklace, ruby, stamp, zorkmid, crown and dragon to demon
+4565	2	open matchbook
+4566	65	examine ring
+4567	53	paper
+4568	41	remove bit
+4569	15	open jewelry box
+4570	48	drop thing
+4571	48	drop bag
+4572	59	give fragment to green rock
+4573	48	drop scroll
+4574	5	hang it on hooks
+4575	10	drive to trafalgar square
+4576	3	pull pin
+4577	23	pour coffee in drain
+4578	29	open panel
+4579	24	drop bear
+4580	47	break wall
+4581	15	open secret door
+4582	10	get milkbottle
+4583	10	put ticket in slot
+4584	29	burn speck
+4585	10	get magic bean
+4586	15	open demijohn
+4587	65	x gaping
+4588	26	search top
+4589	16	push moldy n
+4590	15	open tube
+4591	5	spread peanut butter on frank
+4592	7	put key on keyring
+4593	17	kill troll with sword
+4594	69	cut clingfilm with knife
+4595	2	close link
+4596	10	take zipper
+4597	10	get sceptre
+4598	26	search window
+4599	10	get down
+4600	44	remove ring
+4601	23	pour fluid in hole
+4602	10	take hair dryer
+4603	43	smell dirty floor
+4604	10	get implement
+4605	34	push boulder
+4606	10	gloth dough
+4607	15	open northern door
+4608	15	open outer door
+4609	34	push blue
+4610	29	open tapestry
+4611	53	4
+4612	1	tie rope to timber
+4613	10	get mirror
+4614	42	throw rock at stick
+4615	7	put all on box
+4616	10	get pizza box
+4617	29	close raincoat
+4618	9	x hand
+4619	65	examine thumb
+4620	2	close pizza box
+4621	24	drop map
+4622	33	climb ladder
+4623	44	remove towel
+4624	0	wear flippers
+4625	9	x dispenser
+4626	37	move lighted portrait
+4627	15	open stone door
+4628	65	examine diagram
+4629	10	take sack
+4630	16	push joystick west
+4631	25	squeeze weed killer bottle
+4632	59	give puzzle box to proprietor
+4633	34	push demeter northwest
+4634	10	take printer
+4635	10	get new battery
+4636	10	get out of web
+4637	10	put scraps in forge
+4638	65	x chopper
+4639	10	take volcano
+4640	10	stand up
+4641	42	throw sand
+4642	2	open shield
+4643	11	write prize on featureless
+4644	10	take picture
+4645	44	remove skis
+4646	15	open bottle
+4647	21	strike rod of ice
+4648	10	ask dragon about jewel
+4649	2	close locket
+4650	65	examine toadstools
+4651	43	smell car
+4652	10	put green sphere in pot
+4653	9	x boxes
+4654	24	drop emerald
+4655	10	put hand in liquid
+4656	10	ask cheryl for hologram
+4657	24	drop head
+4658	28	read notice
+4659	59	give pork chops to wolf
+4660	10	get diamond cluster
+4661	65	examine large chair
+4662	65	x arrangement
+4663	65	x rags
+4664	21	knock on door
+4665	0	wear stethoscope
+4666	15	open trapdoor
+4667	15	open compartment
+4668	10	blorple 4
+4669	24	drop bucket
+4670	10	ask mary for ladder
+4671	11	write 6 on cube
+4672	48	drop all but pager
+4673	10	put rope in unit
+4674	43	smell it
+4675	10	get scarab
+4676	65	x crowbar
+4677	10	gnusto crumpled
+4678	24	drop coconut
+4679	10	blorple 5
+4680	62	eat food
+4681	2	open wrapper
+4682	48	drop bowl
+4683	10	gnusto scroll
+4684	59	demon, give me wand
+4685	10	get net
+4686	65	examine dog
+4687	57	read killing
+4688	29	open door with crowbar
+4689	37	move block
+4690	10	ask dragon about trinket
+4691	10	point sacrifice at board
+4692	9	x bag
+4693	14	say to twin "the combination is 639"
+4694	9	x mask
+4695	9	x me
+4696	14	guard, hello
+4697	10	ask barkeep about thad
+4698	9	x fountain
+4699	29	open stump
+4700	15	open curtain
+4701	10	get beer
+4702	16	press 5
+4703	51	show case to jenny
+4704	9	x male
+4705	10	get pump
+4706	65	examine stars
+4707	15	open chest with needle
+4708	48	drop ladder
+4709	1	tie chest to rope
+4710	10	gnusto tossio
+4711	36	enter car
+4712	7	put net on hole
+4713	0	wear amulet
+4714	10	turn off machine
+4715	65	x label
+4716	10	gnusto egdelp
+4717	29	open toilet
+4718	4	show scrap to chuckles
+4719	48	drop stethoscope
+4720	24	drop radio and pole
+4721	10	gnusto vaxum spell
+4722	10	ask george about dehlila
+4723	45	smell dirty floor
+4724	9	examine drill
+4725	9	examine refuse
+4726	16	press west wall
+4727	65	watch video
+4728	7	put large key on keyring
+4729	65	x slabs
+4730	10	put red powder in kettle
+4731	69	cut flower
+4732	9	examine rose
+4733	31	push rod
+4734	10	get string
+4735	5	hang bucket on third peg
+4736	48	drop wine
+4737	2	close reactor
+4738	21	strike rod of fire
+4739	63	look under mat
+4740	65	x car
+4741	29	open dresser
+4742	9	examine fireplace
+4743	15	open dumpster
+4744	9	x district attorney
+4745	39	squeeze flower
+4746	62	eat beef
+4747	10	ask fairy godmother about dress
+4748	10	get orb
+4749	24	drop mirror
+4750	31	push ball southwest
+4751	53	buy sandwich
+4752	28	learn shazok
+4753	10	take headphones
+4754	10	turn reactor on
+4755	10	take beam from southern niche
+4756	48	drop cardboardbox
+4757	48	drop pump
+4758	10	take ticket 5802
+4759	53	buy electromagnet
+4760	10	cuss
+4761	36	climb piano
+4762	36	exit shack
+4763	65	x bulbs
+4764	10	take briefcase
+4765	10	put butter in pan
+4766	10	get orange card
+4767	10	take jar
+4768	63	l in box
+4769	10	throck shrub
+4770	10	put bar in case
+4771	28	learn izyuk spell
+4772	9	x sign
+4773	48	drop door
+4774	10	ask for akbar
+4775	32	wave it
+4776	7	put silver chalice on right disc
+4777	63	look at screen
+4778	33	climb on table
+4779	10	turn on hair dryer
+4780	27	unlock door with key
+4781	65	x paint splotches
+4782	48	drop dragon and paper
+4783	22	touch flower
+4784	26	search ash
+4785	33	southwest
+4786	10	tase sleaze
+4787	10	ask bum about brother
+4788	65	x body
+4789	65	x cat
+4790	24	turn key
+4791	24	drop lantern
+4792	50	pour liquid on slime
+4793	31	push lever
+4794	33	climb idol
+4795	51	show brick to gnome
+4796	10	ask marion about nelson
+4797	10	plug hair dryer into wall
+4798	65	x chandelier
+4799	10	get torch
+4800	9	x invite
+4801	34	push filthy s
+4802	48	drop bees
+4803	28	read lettering
+4804	15	open portrait
+4805	20	strike rod of luck
+4806	63	look through window
+4807	10	get paintbrush
+4808	24	put sword down
+4809	42	throw red at smoke
+4810	10	set dial to 776
+4811	65	examine fence
+4812	9	x dragon
+4813	24	turn switch with screwdriver
+4814	10	ask delbin about ale
+4815	65	x forcefield stud
+4816	48	drop biscuit, paper
+4817	34	push button 3
+4818	63	look in box
+4819	65	x chair
+4820	2	open oven
+4821	29	open chest
+4822	65	x white pillar
+4823	29	open front door
+4824	31	push green button
+4825	10	zifmia adventurer
+4826	24	drop skink
+4827	65	x tower
+4828	57	read back of brown paper
+4829	10	get short poem
+4830	10	get matchbox
+4831	7	put branch under boulder
+4832	10	get firewood
+4833	10	get chain
+4834	9	examine bubble
+4835	10	turn radio on
+4836	26	search gnome
+4837	28	learn rezrov
+4838	10	unplug coaxial cable
+4839	38	slide miniaturization card through slot
+4840	10	get wet suit
+4841	26	search grate
+4842	15	open oven
+4843	57	read book
+4844	10	put astrolabe in mounting
+4845	33	walk 4 paces south
+4846	15	open locker
+4847	10	yell
+4848	24	drop amulet
+4849	47	break bubble with axe
+4850	65	examine pockets
+4851	10	get sword
+4852	24	drop all but pager
+4853	10	get pillow
+4854	53	buy box
+4855	48	drop fruit
+4856	10	ask bly about monster
+4857	31	push south wall
+4858	2	close cabinet
+4859	15	open hatch with screwdriver
+4860	65	x mirror
+4861	9	x grille
+4862	10	light candles with match
+4863	4	show violet to trent
+4864	33	jump off equipment
+4865	2	open secret door
+4866	65	x mask
+4867	58	pull knob
+4868	28	read label
+4869	65	examine blue statuette
+4870	15	open tin
+4871	31	push bunk
+4872	31	push filthy s
+4873	24	drop all but candle
+4874	10	rezrov alabaster
+4875	65	examine thin man
+4876	28	read journal
+4877	34	push pram south
+4878	65	examine body
+4879	62	eat gigantic quantity of just-right porridge
+4880	65	x district attorney
+4881	65	x fountain
+4882	10	take silver
+4883	57	learn melbor
+4884	60	wait
+4885	10	get teddy
+4886	48	drop camera
+4887	6	talk to alltext
+4888	10	get pliers
+4889	65	x left screen
+4890	24	turn handle
+4891	29	open shark repellent
+4892	10	drive to buckingham palace
+4893	0	wear shroud
+4894	63	look at fireplace
+4895	7	put patch on pipe
+4896	10	turn on engine
+4897	2	open desk
+4898	48	drop food
+4899	9	examine memorial
+4900	3	pull clean hook
+4901	9	examine wardrobe
+4902	34	push moldy n
+4903	45	smell smoke
+4904	24	turn w
+4905	36	leave bed
+4906	65	x insect
+4907	33	jump lake
+4908	10	ask k9 about door
+4909	10	take flimsy scroll
+4910	10	get poe
+4911	29	wake falcon with salts
+4912	9	x horse
+4913	10	put bag in case
+4914	58	pull cloth
+4915	47	break window
+4916	29	open mailbox
+4917	2	open floyd
+4918	15	open front door
+4919	65	x desks
+4920	65	x card
+4921	16	push button 1
+4922	12	pour water on net
+4923	10	shake hands
+4924	24	drop vase
+4925	65	examine hole
+4926	9	x curtain
+4927	10	fix bucket with acorn
+4928	10	get canister
+4929	48	drop meter
+4930	65	examine drill
+4931	10	get brick
+4932	10	get tin
+4933	9	examine blue statuette
+4934	27	unscrew panel
+4935	9	x juke
+4936	10	get vellum scroll
+4937	10	put bit in cup
+4938	10	get salt
+4939	10	turn on walkie
+4940	10	take myrrh
+4941	7	put x12 on first pile
+4942	24	turn page
+4943	16	press switch a
+4944	15	open william coffin
+4945	48	raise lever
+4946	10	get pillar
+4947	65	x apparatus
+4948	10	get eight
+4949	10	get smelly scroll
+4950	10	get violin, necklace, ruby, zorkmid, stamp, crown and dragon
+4951	65	x juke
+4952	48	drop fifth brick
+4953	2	open guage
+4954	10	ask sydney for hat
+4955	25	squeeze flower
+4956	24	drop blanket
+4957	2	open royal-blue box
+4958	65	examine film projector
+4959	44	remove cap
+4960	24	drop crown
+4961	9	examine rolls
+4962	34	push yellow
+4963	48	drop decaf
+4964	10	get pan
+4965	44	remove balls
+4966	57	read old book
+4967	10	take leaf
+4968	24	drop rubies
+4969	48	drop popcorn
+4970	65	x gate
+4971	15	open can
+4972	10	get portrait
+4973	29	open box with tool
+4974	2	open tube
+4975	59	give novel to alan
+4976	28	read white scroll
+4977	14	idiot
+4978	10	take spar
+4979	9	examine mesa
+4980	28	learn yomin
+4981	9	examine snooker table
+4982	10	take dirty scroll
+4983	10	put piece in locket
+4984	21	strike rod of infinity
+4985	10	copy flimsy scroll to vellum scroll
+4986	37	move stone
+4987	57	learn izyuk
+4988	10	take blue carpet
+4989	2	open lid with spade
+4990	10	get teapot, mat, letter opener, matchbook and paper
+4991	42	throw book at outcrop
+4992	63	look under seat
+4993	10	put rasp into thing
+4994	10	pick lock with sharp pick
+4995	10	get staff
+4996	15	open wrapper
+4997	10	ask male about work
+4998	10	take small key
+4999	24	slide s
+5000	28	learn tinsot
+5001	65	examine screen
+5002	59	rent compressor
+5003	10	take glasses
+5004	9	x mirror
+5005	10	take perfume
+5006	10	take boots
+5007	10	wedge doors with axe
+5008	29	clean podium
+5009	24	turn valve with crowbar
+5010	24	drop robe in shaft
+5011	38	slide teleportation card through slot
+5012	48	drop crayon and pacquet
+5013	48	drop flat key
+5014	26	search grass
+5015	24	drop bowl
+5016	24	drop all bricks
+5017	46	drill safe with drill
+5018	44	remove bit
+5019	15	open access panel
+5020	10	get porridge oats
+5021	24	drop brass key
+5022	65	x porous wall
+5023	57	read blackened
+5024	65	x skeleton
+5025	24	drop zm$100000
+5026	30	sit in cask
+5027	65	x technician
+5028	10	ask k9 about reactor
+5029	10	take cube
+5030	41	remove first brick
+5031	9	examine white door
+5032	38	slide c
+5033	29	open locker
+5034	24	drop remote control
+5035	50	pour water on plant
+5036	9	examine arthur
+5037	24	drop suit
+5038	10	turn on drive
+5039	24	drop broom
+5040	10	take screwdriver
+5041	31	push piano east
+5042	2	open northern door
+5043	10	put bottle in zipper
+5044	10	put box in zipper
+5045	2	close tapestry
+5046	24	drop screwdriver
+5047	29	open trunk
+5048	59	give torch to gnome
+5049	10	meef weeds
+5050	29	tighten joint
+5051	16	push rock
+5052	65	examine blue carpet
+5053	65	x panels
+5054	10	take x8, x9, x10, x11
+5055	10	get puzzle box
+5056	10	ask technician about security gates
+5057	24	drop dumbells
+5058	10	get club
+5059	65	examine statue
+5060	2	open terminal
+5061	10	get tweezers
+5062	10	mount horse
+5063	10	rock, sw
+5064	48	drop banana
+5065	65	examine compressor
+5066	45	smell car
+5067	24	drop all but flashlight
+5068	65	x self
+5069	10	get heart from boat
+5070	21	strike rod of luck
+5071	10	ask allarah about black
+5072	9	x information stud
+5073	24	turn knob
+5074	10	get kappa
+5075	24	drop drill
+5076	10	throck weed
+5077	27	unlock jewellery box with gold key
+5078	33	northeast
+5079	28	read crumpled scroll
+5080	2	sharpen knife on rock
+5081	10	liskon snake
+5082	24	drop shroud
+5083	48	drop balsa wood beam
+5084	9	examine dining table
+5085	65	examine items
+5086	9	examine hooks
+5087	57	read pages
+5088	65	examine crabs
+5089	24	drop ladder
+5090	10	take bucket
+5091	10	ask fairy godmother about cinderella
+5092	21	hit elf
+5093	27	untie balloon
+5094	27	unlock gate
+5095	10	foe
+5096	62	eat bread
+5097	4	show it to holmes
+5098	29	open towel
+5099	10	get hyrax
+5100	29	open catch
+5101	11	write 10 on cube
+5102	65	examine slot
+5103	65	x building
+5104	9	x apparatus
+5105	65	examine white  statuette
+5106	0	wear gloves
+5107	2	open trapdoor
+5108	59	give note to man
+5109	16	push wireless north
+5110	10	put chasm cube in bottom left socket
+5111	42	throw wishbone at ghost
+5112	10	put knife in zipper
+5113	9	examine notice
+5114	16	push bell
+5115	65	x pots
+5116	10	get safe
+5117	10	get red, blue and green cake
+5118	9	x writing
+5119	62	eat brown goo
+5120	29	close door
+5121	66	fill tank
+5122	33	tell floyd to go north
+5123	59	give ticket 5802 to barker
+5124	9	examine toadstools
+5125	65	x homing
+5126	24	drop net
+5127	59	give pork to wolf
+5128	10	sleaze
+5129	10	ask alan about key
+5130	14	tell bum about skull
+5131	29	fill tank
+5132	29	open metal cover
+5133	0	wear ring
+5134	47	break door
+5135	10	gnusto foblub
+5136	10	take poetry
+5137	35	drink beer
+5138	28	learn lleps
+5139	69	cut green with scalpel
+5140	10	take cushion
+5141	57	learn tossio
+5142	29	open navy-blue box
+5143	48	drop it and kit
+5144	22	touch pad
+5145	29	adventurer, open door
+5146	41	remove mask
+5147	28	read garnet scratch with glass
+5148	9	x treant
+5149	31	push yellow button
+5150	9	x chest
+5151	24	drop spectacles
+5152	28	read of unseen terror
+5153	65	x cutout
+5154	34	push ball south
+5155	15	open safe
+5156	39	rub lamp
+5157	2	open washing machine with poker
+5158	10	take cola
+5159	10	turn on toaster
+5160	9	x leaf
+5161	65	x electronics
+5162	1	tie chain to me
+5163	9	x river
+5164	15	open zipper
+5165	33	slide teleportation card through slot
+5166	9	x generator access
+5167	10	set throttle to fast
+5168	10	take red scroll
+5169	10	open box then get cube
+5170	35	drink ochre potion
+5171	10	get rock
+5172	10	take tube and torch
+5173	6	talk to queenie
+5174	10	drive to the monument
+5175	24	drop it and kit
+5176	24	drop volcano in water
+5177	33	climb up piano
+5178	59	give cereal to hermit
+5179	9	examine satellite
+5180	28	read sports in newspaper
+5181	69	roll statue se
+5182	24	turn wheel off
+5183	10	put toner in slot
+5184	9	x knife
+5185	0	wear razor
+5186	16	push poseidon northeast
+5187	10	take note
+5188	10	get lamp and sword
+5189	24	drop blue paper and yellow paper
+5190	10	get suit
+5191	10	gnusto taclor
+5192	68	shake lamp
+5193	10	huncho me
+5194	65	examine tree
+5195	9	x lye
+5196	3	cheryl, pull rods
+5197	44	remove armour
+5198	37	move bookshelf
+5199	28	learn tossio
+5200	2	open hatch
+5201	58	pull torch
+5202	24	drop honey
+5203	9	examine shiny scroll
+5204	9	examine wand
+5205	4	show ledger to magistrate
+5206	65	x west mural
+5207	34	push purple
+5208	10	get shuttle card
+5209	57	read map
+5210	48	drop bear
+5211	9	x panel
+5212	7	put printer on table
+5213	9	x label
+5214	9	x creature
+5215	57	learn foblub
+5216	10	take fragment from zipper
+5217	28	learn ozmoo
+5218	9	examine fusebox
+5219	66	fill hat with water
+5220	65	x sonar
+5221	48	drop all
+5222	15	open toolshed
+5223	10	get satchel
+5224	65	x hat
+5225	24	drop biscuit, paper
+5226	0	wear locket
+5227	57	learn gloth
+5228	29	fill pot with water
+5229	33	west
+5230	48	drop magazine
+5231	31	push button 9
+5232	2	close cold box
+5233	10	get blanket
+5234	10	liskon me
+5235	9	x sonar
+5236	10	take rope
+5237	67	play whistle
+5238	65	x trapdoor
+5239	65	examine searchlight
+5240	47	smash padlock with pickaxe
+5241	24	drop rusty knife
+5242	0	wear gas mask
+5243	57	learn egdelp
+5244	65	examine chair
+5245	31	push dusty s
+5246	33	down
+5247	65	examine spade
+5248	15	marvin, open the hatch
+5249	33	go stump
+5250	9	x storm
+5251	31	push golden machine south
+5252	10	fire laser
+5253	10	take thing
+5254	10	put silver sphere in pot
+5255	10	get plotter
+5256	63	look in mouth
+5257	52	howl arac
+5258	28	read scriptures
+5259	44	remove jacket
+5260	23	pour hot porridge in gigantic bowl
+5261	10	light lamp
+5262	54	cut growth with cutter
+5263	10	put gray rod in pot
+5264	41	remove frock
+5265	0	wear wet suit
+5266	10	get mud
+5267	29	close outer
+5268	31	push piano south
+5269	45	smell it
+5270	10	put cloth in water
+5271	10	take lamp
+5272	6	talk to sleaze
+5273	10	take dagger
+5274	10	take crumpled
+5275	9	examine stars
+5276	10	look up wilhelm in record
+5277	30	stand on beam
+5278	7	put long steel key on keyring
+5279	33	slide i
+5280	39	rub locket
+5281	65	x globe
+5282	10	get lantern
+5283	10	get locket
+5284	10	get on couch
+5285	28	learn lesoch
+5286	65	x couch
+5287	10	get bauble
+5288	10	put all in toolkit
+5289	48	drop robe in shaft
+5290	10	take stool
+5291	10	take 1
+5292	10	get grimoire from box
+5293	15	open shark repellent
+5294	10	get jar
+5295	50	pour water on powder
+5296	10	get ruby cluster
+5297	65	x huge statue
+5298	15	open door
+5299	11	type "bleem"
+5300	57	learn blorple
+5301	28	read muddy scroll
+5302	48	drop briefcase
+5303	9	examine washing machine
+5304	57	learn zifmia
+5305	59	give paper to professor
+5306	10	stand
+5307	9	examine headphones
+5308	10	rock, s
+5309	33	go through north wall
+5310	9	x globe
+5311	24	drop ring
+5312	10	get piece
+5313	10	take dish
+5314	10	get pork chops
+5315	65	x vial
+5316	28	read damp scroll
+5317	16	push pram south
+5318	48	drop crumpled
+5319	29	open toolshed
+5320	43	smell smoke
+5321	33	roll statue nw
+5322	57	learn espnis
+5323	29	close cage
+5324	10	turn off saw
+5325	10	blorple 10
+5326	65	examine tracks
+5327	10	ask holmes about ash
+5328	4	show keys to michael
+5329	2	open washing machine
+5330	38	roll statue ne
+5331	10	get link
+5332	9	examine red statuette
+5333	10	insult joe
+5334	10	remove opener and drop it
+5335	57	read ruby scratch with glass
+5336	10	get leaflet
+5337	32	wave stone
+5338	10	gnusto espnis
+5339	10	ask male about female
+5340	16	push golden machine south
+5341	9	x button
+5342	10	take term paper
+5343	2	open umbrella
+5344	48	drop crown
+5345	39	lick pet
+5346	29	burn paper
+5347	10	put chalice in case
+5348	65	x switch
+5349	51	show box to guard
+5350	29	open oven
+5351	69	cut branch with knife
+5352	65	x indicator
+5353	31	push demeter northwest
+5354	22	touch powerup stud
+5355	63	look under jukebox
+5356	65	examine electrodes
+5357	10	unwrap parcel
+5358	46	punch out blue dot
+5359	63	look at mural
+5360	50	pour wax on floor
+5361	9	examine toaster
+5362	48	drop green
+5363	10	get out of golden machine
+5364	24	move block
+5365	10	get mousetrap
+5366	3	pull knob
+5367	29	open package
+5368	15	open bird
+5369	59	give amulet to bum
+5370	29	open blue bottle
+5371	10	espnis thug
+5372	24	drop scroll
+5373	36	enter curtain
+5374	22	touch
+5375	57	read huge tome
+5376	28	read sign
+5377	27	unlock grating with rusty key
+5378	10	take coin from zipper
+5379	10	turn on film projector
+5380	9	x knob
+5381	67	play syrinx
+5382	3	pull lever
+5383	33	climb stand
+5384	10	put canary in case
+5385	65	x it
+5386	44	remove plug
+5387	10	put toy in pot
+5388	9	x gnome
+5389	2	close jar
+5390	34	push button
+5391	10	put link in chalice
+5392	3	pull pipe
+5393	29	close lid
+5394	26	search guard
+5395	57	learn izyuk spell
+5396	10	take 4
+5397	59	give gold locket to creature
+5398	48	drop all but lens
+5399	65	x boots
+5400	9	x paint splotches
+5401	10	get skull
+5402	10	put black in slot
+5403	10	get bench
+5404	7	put x1, x2, x7 on first pile
+5405	9	x key
+5406	29	open umbrella
+5407	10	take off scarf
+5408	10	put maiden in projector
+5409	10	put diamond cluster in first hole
+5410	10	get timber
+5411	33	climb down chimney
+5412	24	drop yo-yo
+5413	64	type "bleem"
+5414	24	drop cutter, flask and axe
+5415	65	x camera
+5416	7	put firewood on hearth
+5417	65	x project status stud
+5418	19	feed dog sandwich
+5419	10	take ticket
+5420	65	x grill
+5421	44	pry sixth rib with sword
+5422	10	light torch
+5423	57	learn fweep
+5424	10	get 3
+5425	28	read grave
+5426	24	move barrel
+5427	24	drop letter
+5428	25	melt head with torch
+5429	10	get towel
+5430	31	push switch
+5431	15	open outer
+5432	57	learn nitfol
+5433	2	open coffer
+5434	10	take note and card
+5435	56	see
+5436	10	look up squirrel in leshosh
+5437	10	put mana in bottom socket
+5438	51	show torch to gnome
+5439	2	open dresser
+5440	9	x printer
+5441	24	drop popcorn
+5442	24	drop nasty knife
+5443	59	give bell
+5444	9	x pass
+5445	28	read warped
+5446	59	give card to alan
+5447	65	examine card
+5448	10	get all from basket
+5449	10	put packet in pot
+5450	30	sit down
+5451	2	open forge
+5452	48	drop sword
+5453	10	ask george about frank
+5454	33	north
+5455	26	search slabs
+5456	10	ask bum about crypt
+5457	10	take silver rod
+5458	10	get bone
+5459	10	put flour in pan
+5460	10	put silver in slot
+5461	10	take walkie
+5462	7	put magnet on mine
+5463	42	throw sceptre in boat
+5464	10	point at blue carpet
+5465	1	tie moriarty and akbar with rope
+5466	15	open crate with poker
+5467	42	throw rag at fire
+5468	48	drop silver
+5469	6	talk to empirious
+5470	9	x librarian
+5471	9	x shaman
+5472	65	examine table
+5473	10	take peanut butter
+5474	48	drop aqua vial
+5475	10	look up indanaz in leshosh
+5476	29	open hatch with screwdriver
+5477	59	give it to girl
+5478	28	read dirty scroll
+5479	57	read torn square
+5480	55	sit on carpet
+5481	63	look at little window
+5482	10	get white
+5483	65	x windy tunnel
+5484	10	get head
+5485	9	x fuse
+5486	65	x temple
+5487	9	x ariana
+5488	59	give bananas
+5489	29	open washing machine
+5490	10	get cage
+5491	10	get box and journal
+5492	24	drop drive
+5493	9	x thad
+5494	24	drop it and pliers
+5495	21	hit floor with axe
+5496	10	berknip
+5497	10	get in basket
+5498	4	show bar to tina
+5499	65	x bay
+5500	10	take pillow
+5501	10	ask angela about affliction
+5502	10	insert ruby cluster in second hole
+5503	10	put rods in coffin
+5504	32	wave spindle
+5505	10	put opener in keyhole
+5506	65	x marker
+5507	2	open trunk
+5508	22	touch tool stud
+5509	41	remove gloves
+5510	31	push can against wall
+5511	59	give coin to gnome
+5512	16	press 3
+5513	10	take dummy
+5514	65	examine model
+5515	21	hit icicle with umbrella
+5516	60	wait for 35 minutes
+5517	7	put beam under lintel
+5518	10	get amber
+5519	24	drop radio
+5520	65	x wheel
+5521	10	put egg in case
+5522	29	open back door
+5523	10	get indigo card
+5524	10	amy, leave
+5525	10	take flour from pot
+5526	57	read muddy scroll
+5527	2	shazok storm
+5528	48	drop wig
+5529	10	get red statuette
+5530	10	upload video
+5531	10	take ladder
+5532	10	turn on computestor
+5533	34	push railing
+5534	24	slide c
+5535	2	open notebook
+5536	10	save mp4
+5537	10	gnusto gloth
+5538	10	get bucket
+5539	7	put laudanum on pork
+5540	27	unlock west door
+5541	57	read sports in newspaper
+5542	7	put oil on hatch
+5543	62	eat stew
+5544	10	take zm$100000
+5545	28	read history book
+5546	65	x transmit stud
+5547	57	read prayer
+5548	10	blorple x10
+5549	0	wear shirt
+5550	65	x gun
+5551	47	break ampoule
+5552	2	open william coffin
+5553	9	x grass
+5554	7	put pebble on second disk
+5555	10	set radio to 1170
+5556	65	x bushes
+5557	48	drop nasty knife
+5558	24	drop rune
+5559	19	feed pigeon
+5560	10	take fuse
+5561	24	drop chain
+5562	57	read torn
+5563	10	get balls
+5564	10	drive to pinchin lane
+5565	2	close outer door
+5566	57	read topaz scratch with glass
+5567	15	open tapestry
+5568	9	x brick
+5569	24	drop kitchen card
+5570	27	unlock grate with keys
+5571	33	nw
+5572	29	open zipper
+5573	66	fill battery
+5574	9	x tray
+5575	65	x device
+5576	10	get flag
+5577	7	put blanket on grue
+5578	10	put pouch in toolkit
+5579	2	open demijohn
+5580	65	examine computer
+5581	10	get fork
+5582	10	get pyramid
+5583	10	get fruit
+5584	10	attack crulley
+5585	34	push table n
+5586	29	open purple book
+5587	57	read label
+5588	10	get tarot box
+5589	10	take smoke rod
+5590	63	look inside tube
+5591	10	put featureless rod in coffin
+5592	38	slide t
+5593	62	eat blue cake
+5594	33	jump
+5595	65	examine machine
+5596	14	aragon
+5597	15	open slot
+5598	33	roll statue ne
+5599	36	enter tardis
+5600	65	examine winch
+5601	29	inflate pile
+5602	10	take bar
+5603	65	examine tombs
+5604	24	drop shield
+5605	41	remove fused bedistor with pliers
+5606	16	push it south
+5607	9	x arrangement
+5608	10	offer coin to delbin
+5609	10	get worm
+5610	10	foblub yupple
+5611	10	point machine at tree
+5612	10	take flour
+5613	10	gnusto rezrov spell
+5614	9	x skeleton
+5615	10	get key
+5616	2	open chest
+5617	29	close receptacle
+5618	28	read waxy scroll
+5619	10	get coal
+5620	10	gnusto gaspar spell
+5621	10	port
+5622	55	lie in bed
+5623	59	give magazine to doc
+5624	2	open claws
+5625	65	examine cottage
+5626	51	show bar to tina
+5627	10	take ticket 2306
+5628	27	unlock it with gothic key
+5629	31	push wireless north
+5630	31	push demeter southwest
+5631	24	drop stool and bucket
+5632	7	put ladder under trap
+5633	67	play flute
+5634	9	examine missile
+5635	51	show amulet to michael
+5636	10	get hat
+5637	65	examine keg
+5638	4	show envelope to johnny
+5639	34	push button enter
+5640	28	read booklet
+5641	10	ask bum about himself
+5642	10	put figurine in case
+5643	65	x comb
+5644	33	walk around bulldozer
+5645	65	x hawk
+5646	49	shake pack
+5647	10	get gas
+5648	48	drop flask
+5649	0	wear pendant
+5650	2	open piano
+5651	65	examine hive
+5652	36	climb on stage
+5653	41	remove plug
+5654	16	press north wall
+5655	48	drop secateurs
+5656	65	examine crypt
+5657	34	push statue
+5658	9	x carvings
+5659	2	open pram
+5660	34	push filthy n
+5661	10	covert
+5662	54	cut line with axe
+5663	44	remove handcuffs
+5664	7	put golden chalice on left disc
+5665	10	get paper
+5666	17	kill eranti
+5667	47	smash cabinet
+5668	10	get chalice
+5669	65	examine skeleton
+5670	16	push button 7
+5671	29	open journal
+5672	48	drop padlock
+5673	10	take gnomon
+5674	3	pull leaves
+5675	10	light torch with fire
+5676	29	open pacquet of paper
+5677	9	x crowbar
+5678	28	read business card
+5679	57	read plaque
+5680	10	get remote control
+5681	10	take key
+5682	63	look at ron
+5683	31	push dionysus southeast
+5684	48	drop pillow
+5685	34	push boulders
+5686	44	remove fused bedistor with pliers
+5687	58	pull chain
+5688	26	search garbage
+5689	10	take pot
+5690	15	open cabinet
+5691	10	get antimacassar
+5692	63	look in hole
+5693	9	x contraption
+5694	9	x implementor
+5695	59	give eggs
+5696	10	get bag
+5697	10	caskly hut
+5698	9	examine teachers
+5699	21	strike rod of bronze
+5700	39	wipe celery with napkin
+5701	65	x crack
+5702	10	turn on lamp
+5703	59	give paper to gnome
+5704	2	open quartz cover
+5705	10	take ash
+5706	29	open furnace
+5707	48	drop trident
+5708	24	drop wine
+5709	9	examine box
+5710	18	wake up old man
+5711	24	drop stone
+5712	9	x hole
+5713	10	ask george about gumball
+5714	65	examine moss
+5715	10	put prize cube in top left socket
+5716	24	slide a
+5717	10	put red in glasses
+5718	53	buy drink
+5719	9	x table
+5720	29	close reactor
+5721	33	w
+5722	10	get amulet
+5723	33	go to gnome
+5724	10	light torch with newspaper
+5725	24	turn ring to seventh symbol
+5726	4	show egg to adventurer then east
+5727	10	get blue sphere
+5728	17	kill thief with nasty knife
+5729	63	look in panel
+5730	48	drop key
+5731	24	drop pot
+5732	9	x respirator
+5733	65	examine icicles
+5734	63	look in crypt
+5735	9	x west mural
+5736	28	read twisted
+5737	10	ask pedlar about beans
+5738	2	shake safe
+5739	10	get opal
+5740	51	show invitation to butler
+5741	24	slide shuttle card through slot
+5742	27	unlock cabinet with shiny key
+5743	51	show photograph to charles
+5744	24	turn sphere
+5745	10	get bladder
+5746	10	get out of forklift
+5747	16	push knob
+5748	10	insert indigo card in slot
+5749	10	point at coconut
+5750	10	insert cube in opening
+5751	29	open canteen
+5752	10	get cloth
+5753	59	give kappa to callimachus
+5754	10	rock, n
+5755	11	write 1 on cube
+5756	63	look in fissure
+5757	48	drop leaflet
+5758	10	put large plug in large receptacle
+5759	9	examine sculpture
+5760	10	gnusto huncho
+5761	65	examine huge bed
+5762	9	examine coconuts
+5763	29	open slot
+5764	65	x desk
+5765	29	close cabinet
+5766	57	read sticker
+5767	53	order drink
+5768	9	examine islet
+5769	65	examine parchment
+5770	7	put red flag on spotted
+5771	53	catch it
+5772	26	search machines
+5773	65	x cage
+5774	10	put coal in furnace
+5775	15	open umbrella
+5776	10	agganrw
+5777	29	open case
+5778	65	examine coin
+5779	57	learn lobal
+5780	46	carve my name on the memorial
+5781	65	examine glass case
+5782	38	slide k
+5783	2	close shield
+5784	2	open book
+5785	65	x coat
+5786	33	u
+5787	65	examine map
+5788	65	examine ash
+5789	9	x tables
+5790	24	slide e
+5791	10	hack terminal
+5792	10	take comb
+5793	11	write chasm on featureless cube
+5794	57	read letter
+5795	27	unlock door with steel key
+5796	7	put timber across chute
+5797	16	push dionysus southeast
+5798	10	dive
+5799	49	shake pan
+5800	28	read tag
+5801	33	go to pig
+5802	10	put canteen in knapsack
+5803	9	x salt
+5804	27	unlock chain with key
+5805	7	put house on triangle
+5806	44	remove stethoscope
+5807	57	read back of yellow paper
+5808	48	drop kitchen card
+5809	48	drop shim
+5810	36	enter roller
+5811	10	put white in slot
+5812	10	take decaf from pot
+5813	48	drop rune
+5814	29	open box
+5815	33	left
+5816	48	drop cutter, flask and axe
+5817	48	drop label
+5818	9	x tower
+5819	31	push coffin w
+5820	2	roll statue sw
+5821	10	point east
+5822	2	open coffin
+5823	63	look in telescope
+5824	48	drop dagger
+5825	7	put ladder under tree
+5826	2	dragon, open door
+5827	29	open access panel
+5828	4	show note to charles
+5829	9	x chairs
+5830	16	push left button
+5831	65	x mushroom
+5832	34	push table s
+5833	36	enter stall
+5834	34	push right button
+5835	10	get violet card
+5836	31	push yellow
+5837	24	drop cracked
+5838	24	drop ticket
+5839	59	give flask to bum
+5840	65	examine vegetable plot
+5841	28	read pages
+5842	57	read notice
+5843	36	enter
+5844	10	g
+5845	24	drop flippers
+5846	10	take yellow powder
+5847	22	touch thing with pole
+5848	10	put torch in basket
+5849	10	put grenade in cupboard
+5850	7	put soap on zipper
+5851	65	x ball
+5852	10	point it at goats
+5853	59	give gram to andrea
+5854	10	get lamp
+5855	1	tie tinsel to coin
+5856	2	open safe
+5857	10	take purse
+5858	48	drop glasses
+5859	9	examine meteor
+5860	29	open desk
+5861	7	put x8 on second pile
+5862	9	x window
+5863	10	look up croseus in album
+5864	57	read waxy scroll
