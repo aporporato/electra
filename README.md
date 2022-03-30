@@ -71,21 +71,21 @@ The results on test set for the tasks are reported for the newly finetuned model
 |  | WordNet | VerbNet | FrameNet | Third Person Command |
 | --- | --- | --- | --- | --- |
 | Metrics | Acc | Acc | Acc | Acc |
-| ELECTRA-Small | 0.1 | 0.3 | 0.3 | 0.8 |
-| ELECTRA-Small-Finetuned | 0.1 | 0.9 | 0.0 | 0.0 |
-| ELECTRA-Small-IF | 95.9 | 55.1 | 86.1 | 98.9 |
+| ELECTRA-Small | 0.1 | 5.6 | 1.1 | 0.0 |
+| ELECTRA-Small-Finetuned | 0.1 | 1.3 | 14 | 0.8 |
+| ELECTRA-Small-IF | 93.7 | 56.2 | 86.2 | 98.1 |
 
 (Note that this number is provided just for a rough estimate).
 
 ## Hugging Face `transformers` Model
 
-Due to some difficulties in the conversion of the models from Tensorflow 1.x to version 2.x, an approximation (due to some different configurations, but mostly to the selection of the best performing model to continue the finetunig on the subsequent task, and the exclusion of the AX task evaluation) of the finetuning process described above has been repeated from scratch on the [Hugging Face ELECTRA small discriminator](https://huggingface.co/google/electra-small-discriminator) model (Transformers 4.17.0). The reported number have been obtained by the best model finetuned using the validation set of the respective task, before finetune the model on the following one.
+Due to some difficulties in the conversion of the models from Tensorflow 1.x to version 2.x, an approximation (due to some different configurations, but mostly to the selection of the best performing model aftrìer 7 to continue the finetunig on the subsequent task, and the exclusion of the AX task evaluation) of the finetuning process described above has been repeated from scratch on the [Hugging Face ELECTRA small discriminator](https://huggingface.co/google/electra-small-discriminator) model (Transformers 4.17.0). The reported number have been obtained by the best model finetuned using the validation set of the respective task, before finetune the model on the following one.
 
-That process took ~36 hours on an Azure Virtual Machine with 1 K80 GPU (1/2 Physical Card).
+That process took ~21 hours on an Azure Virtual Machine with 1 K80 GPU (1/2 Physical Card).
 
 The resulting models, eventually finetuned for the recognition of orders given to NPC and WordNet synset classification of the verb in the command, on the whole dataset (train set + test set,  epochs), are available [here](https://huggingface.co/Aureliano/electra-npc) and [here](https://huggingface.co/Aureliano/electra-if), both as `ElectraModel` and `TFElectraModel`.
 
 | | WN | VN | FN | NPC | MNLI | WNLI | STS | MRPC | Chunk | RTE | QQP | SST | SQuAD2 | CoLA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Metrics | Acc | Acc | Acc | Acc | Acc | Acc | Pear/Spear | Acc | F1 | Acc | Acc | Acc | EM | MCC |
-| ELECTRA-Small-IF | 85.5 | 51.3 | 56.7 | 99.6 | 78.0 | 56.3 | 86.9/86.8 | 77.2 | 89.5 | 61.4 | 89.4 | 87.6 | - | 56.3 |
+| ELECTRA-Small-IF | 91.2 | 62.6 | 83.5 | 100.0 | 79.9 | 56.3 | 87.3/87.1 | 75.0 | 90.6 | 63.2 | 88.8 | 89.1 | - | 55.3 |

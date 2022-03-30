@@ -367,7 +367,19 @@ class WN(ClassificationTask):
     """WordNet."""
 
     def __init__(self, config: configure_if_finetuning.FinetuningIFConfig, tokenizer):
-        super(WN, self).__init__(config, "wn", tokenizer, [str(l) for l in list(range(84))])
+        labels = ['answer.v.01', 'ask.v.01', 'ask.v.02', 'blow.v.01', 'brandish.v.01', 'break.v.05', 'burn.v.01',
+                  'buy.v.01', 'charge.v.17', 'choose.v.01', 'clean.v.01', 'climb.v.01', 'close.v.01', 'connect.v.01',
+                  'consult.v.02', 'cut.v.01', 'dig.v.01', 'drink.v.01', 'drive.v.01', 'drop.v.01', 'eat.v.01',
+                  'enter.v.01', 'examine.v.02', 'exit.v.01', 'fill.v.01', 'follow.v.01', 'give.v.03', 'hit.v.02',
+                  'hit.v.03', 'insert.v.01', 'insert.v.02', 'jump.v.01', 'kill.v.01', 'lie_down.v.01', 'light_up.v.05',
+                  'listen.v.01', 'look.v.01', 'lower.v.01', 'memorize.v.01', 'move.v.02', 'note.v.04', 'open.v.01',
+                  'play.v.03', 'pour.v.01', 'press.v.01', 'pull.v.04', 'push.v.01', 'put.v.01', 'raise.v.02',
+                  'read.v.01', 'remove.v.01', 'rub.v.01', 'say.v.08', 'search.v.04', 'sequence.n.02', 'set.v.05',
+                  'shake.v.01', 'shoot.v.01', 'show.v.01', 'sit_down.v.01', 'skid.v.04', 'smash.v.02', 'smell.v.01',
+                  'stand.v.03', 'switch_off.v.01', 'switch_on.v.01', 'take.v.04', 'take_off.v.06', 'talk.v.02',
+                  'throw.v.01', 'touch.v.01', 'travel.v.01', 'turn.v.09', 'unknown', 'unlock.v.01', 'wait.v.01',
+                  'wake_up.v.02', 'wear.v.02', 'write.v.07']
+        super(WN, self).__init__(config, "wn", tokenizer, labels)
 
     def _create_examples(self, lines, split):
         if "test" in split:
@@ -420,7 +432,19 @@ class WNFull(ClassificationTask):
     """WordNet."""
 
     def __init__(self, config: configure_if_finetuning.FinetuningIFConfig, tokenizer):
-        super(WNFull, self).__init__(config, "wn_full", tokenizer, [str(l) for l in list(range(84))])
+        labels = ['answer.v.01', 'ask.v.01', 'ask.v.02', 'blow.v.01', 'brandish.v.01', 'break.v.05', 'burn.v.01',
+                  'buy.v.01', 'charge.v.17', 'choose.v.01', 'clean.v.01', 'climb.v.01', 'close.v.01', 'connect.v.01',
+                  'consult.v.02', 'cut.v.01', 'dig.v.01', 'drink.v.01', 'drive.v.01', 'drop.v.01', 'eat.v.01',
+                  'enter.v.01', 'examine.v.02', 'exit.v.01', 'fill.v.01', 'follow.v.01', 'give.v.03', 'hit.v.02',
+                  'hit.v.03', 'insert.v.01', 'insert.v.02', 'jump.v.01', 'kill.v.01', 'lie_down.v.01', 'light_up.v.05',
+                  'listen.v.01', 'look.v.01', 'lower.v.01', 'memorize.v.01', 'move.v.02', 'note.v.04', 'open.v.01',
+                  'play.v.03', 'pour.v.01', 'press.v.01', 'pull.v.04', 'push.v.01', 'put.v.01', 'raise.v.02',
+                  'read.v.01', 'remove.v.01', 'rub.v.01', 'say.v.08', 'search.v.04', 'sequence.n.02', 'set.v.05',
+                  'shake.v.01', 'shoot.v.01', 'show.v.01', 'sit_down.v.01', 'skid.v.04', 'smash.v.02', 'smell.v.01',
+                  'stand.v.03', 'switch_off.v.01', 'switch_on.v.01', 'take.v.04', 'take_off.v.06', 'talk.v.02',
+                  'throw.v.01', 'touch.v.01', 'travel.v.01', 'turn.v.09', 'unknown', 'unlock.v.01', 'wait.v.01',
+                  'wake_up.v.02', 'wear.v.02', 'write.v.07']
+        super(WNFull, self).__init__(config, "wn_full", tokenizer, labels)
 
     def _create_examples(self, lines, split):
         if "test" in split:

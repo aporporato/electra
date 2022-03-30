@@ -410,16 +410,16 @@ class RTE(ClassificationTask):
     def _create_examples(self, lines, split):
         return self._load_glue(lines, split, 1, 2, 3, True)
 
-    def _create_examples(self, lines, split):
-        return self._load_glue(lines, split, 1, 2, 3, True)
-
 
 class QNLI(ClassificationTask):
-    """Question NLI."""
+  """Question NLI."""
 
-    def __init__(self, config: configure_finetuning.FinetuningConfig, tokenizer):
-        super(QNLI, self).__init__(config, "qnli", tokenizer,
-                                   ["entailment", "not_entailment"])
+  def __init__(self, config: configure_finetuning.FinetuningConfig, tokenizer):
+    super(QNLI, self).__init__(config, "qnli", tokenizer,
+                               ["entailment", "not_entailment"])
+
+  def _create_examples(self, lines, split):
+    return self._load_glue(lines, split, 1, 2, 3, True)
 
 
 class WNLI(ClassificationTask):

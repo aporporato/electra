@@ -1,4 +1,4 @@
 /finetuning_data/*
 /models/*
 /__pycache__/*
-/hugging_face/distilbert_for_interactive_fiction.ipynb
+/hugging-face/distilbert_for_interactive_fiction.ipynb
